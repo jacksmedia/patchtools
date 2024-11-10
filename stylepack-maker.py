@@ -36,8 +36,10 @@ def batch_patch_directory(original_rom, roms_directory, output_directory):
             create_ips_patch(original_rom, modified_rom, output_patch)
 
 # Example usage
-original_rom = './_original-rom.sfc'  # Path to the original ROM
+#original_rom = './_orig-ff2-rom.sfc'  # Path to the original ROM
+
+original_rom = './_improved-rom.sfc'  # Path to the original ROM
 roms_directory = './modified_roms'  # Directory containing modified ROMs
-output_directory = './output_patches'  # Directory to save the patch files
+output_directory = './fresh-style-packs'  # Directory to save the patch files
 
 batch_patch_directory(original_rom, roms_directory, output_directory)
