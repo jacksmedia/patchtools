@@ -1,0 +1,1 @@
+python kicker.py && cd .. && python stylepack-maker.py
