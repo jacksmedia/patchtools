@@ -1,92 +1,107 @@
 {
     "Decil":
     {
-        "sprites_start": "$0D0000",
+        "battle_sprites_start": "$0D0000",
         "palette":"80 01 00 00 FF 7F 3F 2A F9 01 8C 6D 4A 55 1F 00 BD 03 52 7E 7F 03 BC 02 B5 01 15 00 08 45 84 34",
-        "pal_start": "$0E7D00"
+        "pal_start": "$0E7D00",
+        "map_sprites_start": "$0D8000"
     },
     "Kain":
     {
-        "sprites_start": "$0D0800",
+        "battle_sprites_start": "$0D0800",
         "palette":	"80 01 00 00 FF 7F 7F 36 D6 11 00 52 C0 6A 19 00 0F 00 88 7F 19 7E 70 6D BC 02 80 41 7F 03 C0 28",
-        "pal_start": "$0E7D20"
+        "pal_start": "$0E7D20",
+        "map_sprites_start": "$0D8300"
     },
     "Kydia":
     {
-        "sprites_start": "$0D1000",
+        "battle_sprites_start": "$0D1000",
         "palette":	"80 01 00 00 FF 7F BF 32 18 2A 00 7C 4A 2F DF 6C C0 01 F6 67 FF 47 3F 03 B5 01 15 44 00 7E 43 1E",
-        "pal_start": "$0E7D40"
+        "pal_start": "$0E7D40",
+        "map_sprites_start": "$0D8600"
     },
     "Tellah":
     {
-        "sprites_start": "$0D1800",
+        "battle_sprites_start": "$0D1800",
         "palette":	"80 01 00 00 FF 7F FF 3A 39 22 1B 44 10 7E 5F 7D 00 7F F7 7E 7F 03 08 6D BC 02 B5 01 11 5C 0B 44",
-        "pal_start": "$0E7D60"
+        "pal_start": "$0E7D60",
+        "map_sprites_start": "$0D8900"
     },
     "Edward":
     {
-        "sprites_start": "$0D2000",
+        "battle_sprites_start": "$0D2000",
         "palette":	"80 01 00 00 FF 7F BF 3A F9 21 C0 02 7F 03 1F 00 00 7E FF 3F E0 03 69 00 BC 02 B5 01 ED 00 19 00",
-        "pal_start": "$0E7D80"
+        "pal_start": "$0E7D80",
+        "map_sprites_start": "$0D8C00"
     },
     "Rosa":
     {
-        "sprites_start": "$0D2800",
+        "battle_sprites_start": "$0D2800",
         "palette":	"80 01 00 00 FF 7F BF 32 F7 21 04 12 6F 0D 3E 35 00 54 BA 24 77 2E 3B 03 34 56 CF 3E EF 3C F3 1D",
-        "pal_start": "$0E7DA0"
+        "pal_start": "$0E7DA0",
+        "map_sprites_start": "$0D8F00"
     },
     "Yang":
     {
-        "sprites_start": "$0D3000",
+        "battle_sprites_start": "$0D3000",
         "palette":	"80 01 00 00 FF 7F FF 25 77 01 BC 02 15 00 1F 00 0F 00 FF 13 D6 5A 7F 03 9F 01 8C 7D AD 35 00 5C",
-        "pal_start": "$0E7DC0"
+        "pal_start": "$0E7DC0",
+        "map_sprites_start": "$0D9200"
     },
     "Palom":
     {
-        "sprites_start": "$0D3800",
+        "battle_sprites_start": "$0D3800",
         "palette":	"80 01 00 00 FF 7F 1F 2E 7A 1D 60 03 EF 00 1D 00 00 6C FF 3F 7F 03 BC 02 5F 01 F7 01 73 01 E0 01",
-        "pal_start": "$0E7DE0"
+        "pal_start": "$0E7DE0",
+        "map_sprites_start": "$0D9500"
     },
     "Porom":
     {
-        "sprites_start": "$0D4000",
+        "battle_sprites_start": "$0D4000",
         "palette":	"80 01 00 00 FF 7F 7F 3A D9 25 19 00 EE 00 DF 00 00 7D FF 03 E0 03 3F 03 79 02 B5 01 31 01 C0 02",
-        "pal_start": "$0E7E00"
+        "pal_start": "$0E7E00",
+        "map_sprites_start": "$0D9800"
     },
     "Pecil":
     {
-        "sprites_start": "$0D4800",
+        "battle_sprites_start": "$0D4800",
         "palette":	"80 01 00 00 FF 7F 3F 32 7A 1D F7 3E 52 7E 1F 21 A0 02 7F 03 17 00 FF 4F 18 7F 6B 1D 00 74 8C 65",
-        "pal_start": "$0E7E20"
+        "pal_start": "$0E7E20",
+        "map_sprites_start": "$0D9B00"
     },
     "Cid":
     {
-        "sprites_start": "$0D5000",
+        "battle_sprites_start": "$0D5000",
         "palette":	"80 01 00 00 FF 7F 3D 02 77 01 00 5D 55 00 1D 01 10 7E 7F 03 BC 02 B7 01 33 01 AF 00 00 7E 00 40",
-        "pal_start": "$0E7E40"
+        "pal_start": "$0E7E40",
+        "map_sprites_start": "$0D9E00"
     },
     "Rydia":
     {
-        "sprites_start": "$0D5800",
+        "battle_sprites_start": "$0D5800",
         "palette":	"80 01 00 00 FF 7F BF 32 18 2A 20 02 29 27 DF 6C 00 7C 63 0E EF 3F FF 03 79 02 19 54 BF 7E A0 01",
-        "pal_start": "$0E7E60"
+        "pal_start": "$0E7E60",
+        "map_sprites_start": "$0DA100"
     },
     "Edge":
     {
-        "sprites_start": "$0D6000",
+        "battle_sprites_start": "$0D6000",
         "palette":	"80 01 00 00 FF 7F 79 36 B5 1D 00 5D 8C 31 1F 00 08 21 7F 03 F5 01 94 7E B5 56 CE 5D 4A 7D 6F 01",
-        "pal_start": "$0E7E80"
+        "pal_start": "$0E7E80",
+        "map_sprites_start": "$0DA400"
     },
     "FuSoYa":
     {
-        "sprites_start": "$0D6800",
+        "battle_sprites_start": "$0D6800",
         "palette":	"80 01 00 00 FF 7F FF 36 39 1E 0F 6D 8E 7E 1F 50 E0 02 D5 7D 86 5D 33 7B 0A 6E FB 7F 49 54 03 3C",
-        "pal_start": "$0E7EA0"
+        "pal_start": "$0E7EA0",
+        "map_sprites_start": "$0DA700"
     },
     "Golbez":
     {
-        "sprites_start": "$0D7600",
+        "battle_sprites_start": "$0D7600",
         "palette":	"80 01 00 00 FF 7F 60 03 3F 2A F9 01 1B 00 15 00 7F 03 BC 02 B5 01 40 7F 40 7E 80 6D 00 5D 00 38",
-        "pal_start": "$0E7EC0"
+        "pal_start": "$0E7EC0",
+        "map_sprites_start": "$0DA700"
     }
 }
