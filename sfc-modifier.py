@@ -1,8 +1,8 @@
 import json
-# import os # will be used for entire dir iteration
+from pathlib import Path # for subfolder
 import shutil
 
-# Core Read Write functions
+# Core Read/Write functions
 def read_bytes(filename, offset, length):
     with open(filename, 'rb') as f:
         f.seek(offset)
@@ -14,46 +14,62 @@ def write_bytes(filename, offset, data):
         f.seek(offset)
         f.write(data)
 
+# Function to process a single rom
+def salvage_rom(original_rom, edited_rom, output_rom, offsets):
+    # Create a fresh sfc for salvaged data
+    shutil.copyfile(original_rom, output_rom)
 
-# Import locations to read in the rom
+    # Process each character's data
+    for character, info in offsets.items():
+        battle_sprites_start = int(info['battle_sprites_start'][1:], 16) # 16 bc hex number
+        pal_start = int(info['pal_start'][1:], 16) # [1:] strips the $
+        #map_sprites_start = int(info['map_sprites_start'][1:], 16)
+        #map_pal_data = int(info['map_pal_index'][1:], 16)
+
+        # Read & write 64 tiles of battle sprite data
+        battle_sprite_data = read_bytes(edited_rom, battle_sprites_start, 2048) # 64 tiles of 32 bytes each
+        write_bytes(output_rom, battle_sprites_start, battle_sprite_data) 
+
+        # Read & write 32 bytes of battle palette data
+        palette_data = read_bytes(edited_rom, pal_start, 32) # 16 colors of 2 bytes each
+        write_bytes(output_rom, pal_start, palette_data)    
+
+        # # Read 48 tiles of map sprite data
+        # map_sprite_data = read_bytes(edited_rom, map_sprites_start, 1536) # 48 tiles of 32 bytes each
+
+        # # Read 1 byte palette index
+        # map_pal_data = read_bytes(edited_rom, map_pal_data, 1) # 1 byte index value
+
+
+        # Console test prints
+        print(f"Character: {character}")
+        print(f"  Sprite Data: {battle_sprite_data.hex()}")
+        print(f"  Palette Data: {palette_data.hex()}")
+        # Just working on the 1st half for now
+        #print(f"  Map Sprite Data: {map_sprite_data.hex()}")
+        #print(f"  Map Palette: {map_pal_data.hex()}")
+
+# Batch processing function
+def process_all_roms(corrupt_roms_dir, original_rom, offsets):
+    # Iterate thru all corrupted roms in directory
+    for corrupt_rom in corrupt_roms_dir.glob("*.sfc"):
+        output_rom = corrupt_roms_dir.parent / f"_salvaged_{corrupt_rom.name}"
+        print(f"Processing '{corrupt_rom}' into '{output_rom}'")
+        salvage_rom(original_rom, corrupt_rom, output_rom, offsets)
+    print("Batch process completed! Now make some fresh patches!")
+
+
+# Import offsets from JSON
 with open('offset_data.json', 'r') as f:
-    data = json.load(f)
-
-# Load & create working roms
-original_rom = '_original-rom.sfc'
-edited_rom = 'edited-rom.sfc'
-output_rom = f'__salvaged-{edited_rom}'
-
-# Create a fresh sfc to receive exported edits
-shutil.copyfile(original_rom, output_rom)
-
-for character, info in data.items():
-    battle_sprites_start = int(info['battle_sprites_start'][1:], 16) # 16 bc hex number
-    pal_start = int(info['pal_start'][1:], 16) # [1:] strips the $
-    map_sprites_start = int(info['map_sprites_start'][1:], 16)
-    map_pal_data = int(info['map_pal_index'][1:], 16)
-
-    # Read 64 tiles of sprite data
-    battle_sprite_data = read_bytes(edited_rom, battle_sprites_start, 2048) # 48 tiles of 32 bytes each
-    # Write tiles of sprite data
-    write_bytes(output_rom, battle_sprites_start, battle_sprite_data) 
-
-    # Read 32 bytes of palette data
-    palette_data = read_bytes(edited_rom, pal_start, 32) # 16 colors of 2 bytes each
-    # Write battle palette data
-    write_bytes(output_rom, pal_start, palette_data)    
-
-    # # Read 48 tiles of map sprite data
-    # map_sprite_data = read_bytes(edited_rom, map_sprites_start, 1536) # 48 tiles of 32 bytes each
-
-    # # Read 1 byte palette index
-    # map_pal_data = read_bytes(edited_rom, map_pal_data, 1) # 1 byte index value
+    offsets = json.load(f)
 
 
-    # Console test prints
-    print(f"Character: {character}")
-    print(f"  Sprite Data: {battle_sprite_data.hex()}")
-    print(f"  Palette Data: {palette_data.hex()}")
-    # Just working on the 1st half for now
-    #print(f"  Map Sprite Data: {map_sprite_data.hex()}")
-    #print(f"  Map Palette: {map_pal_data.hex()}")
+# Define directories
+script_dir = Path(__file__).parent # this dir
+corrupt_roms_dir = script_dir / 'corrupted'
+
+# Set original rom path
+original_rom = script_dir.parent / '_original-rom.sfc'
+
+# Batch process invocation
+process_all_roms(corrupt_roms_dir, original_rom, offsets)
