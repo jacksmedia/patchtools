@@ -23,8 +23,11 @@ def salvage_rom(original_rom, edited_rom, output_rom, offsets):
     for character, info in offsets.items():
         battle_sprites_start = int(info['battle_sprites_start'][1:], 16) # 16 bc hex number
         pal_start = int(info['pal_start'][1:], 16) # [1:] strips the $
-        #map_sprites_start = int(info['map_sprites_start'][1:], 16)
-        #map_pal_data = int(info['map_pal_index'][1:], 16)
+        map_sprites_start = int(info['map_sprites_start'][1:], 16)
+        map_pal_data = int(info['map_pal_index'][1:], 16)
+        portrait_start = int(info['portrait_start'][1:], 16)
+        portrait_pal_start = int(info['portrait_pal_start'][1:], 16)
+
 
         # Read & write 64 tiles of battle sprite data
         battle_sprite_data = read_bytes(edited_rom, battle_sprites_start, 2048) # 64 tiles of 32 bytes each
