@@ -40,6 +40,11 @@ def salvage_rom(original_rom, edited_rom, output_rom, offsets):
         # # Read 1 byte palette index
         # map_pal_data = read_bytes(edited_rom, map_pal_data, 1) # 1 byte index value
 
+        # Read 16 tiles of portrait sprite data (256 bytes)
+        # portrait_sprite_data = read_bytes(edited_rom, portrait_start, 256) 
+
+        # Read 8 colors (16 bytes) of portrait palette data 
+        # portrait_pal_data = read_bytes(edited_rom, portrait_pal, 16)
 
         # Console test prints
         print(f"Character: {character}")
@@ -48,6 +53,9 @@ def salvage_rom(original_rom, edited_rom, output_rom, offsets):
         # Just working on the 1st half for now
         #print(f"  Map Sprite Data: {map_sprite_data.hex()}")
         #print(f"  Map Palette: {map_pal_data.hex()}")
+        #print(f"  Portrait Sprite Data: {portrait_sprite_data.hex()}")
+        #print(f"  Portrait Palette: {portrait_pal_data.hex()}")
+        
 
 # Batch processing function
 def process_all_roms(corrupt_roms_dir, original_rom, offsets):
