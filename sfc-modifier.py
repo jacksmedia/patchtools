@@ -35,26 +35,29 @@ def salvage_rom(original_rom, edited_rom, output_rom, offsets):
         write_bytes(output_rom, pal_start, palette_data)    
 
         # # Read 48 tiles of map sprite data
-        # map_sprite_data = read_bytes(edited_rom, map_sprites_start, 1536) # 48 tiles of 32 bytes each
+        map_sprite_data = read_bytes(edited_rom, map_sprites_start, 1536) # 48 tiles of 32 bytes each
+        write_bytes(output_rom, map_sprites_start, map_sprite_data)
 
         # # Read 1 byte palette index
-        # map_pal_data = read_bytes(edited_rom, map_pal_data, 1) # 1 byte index value
+        map_pal_data = read_bytes(edited_rom, map_pal_data, 1) # 1 byte index value
+        write_bytes(output_rom, map_pal_data)
 
         # Read 16 tiles of portrait sprite data (256 bytes)
-        # portrait_sprite_data = read_bytes(edited_rom, portrait_start, 256) 
+        portrait_sprite_data = read_bytes(edited_rom, portrait_start, 256) 
+        write_bytes(output_rom, portrait_start, portrait_sprite_data)
 
         # Read 8 colors (16 bytes) of portrait palette data 
-        # portrait_pal_data = read_bytes(edited_rom, portrait_pal, 16)
+        portrait_pal_data = read_bytes(edited_rom, portrait_pal_start, 16)
+        write_bytes(output_rom, portrait_pal_data)
 
         # Console test prints
         print(f"Character: {character}")
         print(f"  Sprite Data: {battle_sprite_data.hex()}")
         print(f"  Palette Data: {palette_data.hex()}")
-        # Just working on the 1st half for now
-        #print(f"  Map Sprite Data: {map_sprite_data.hex()}")
-        #print(f"  Map Palette: {map_pal_data.hex()}")
-        #print(f"  Portrait Sprite Data: {portrait_sprite_data.hex()}")
-        #print(f"  Portrait Palette: {portrait_pal_data.hex()}")
+        print(f"  Map Sprite Data: {map_sprite_data.hex()}")
+        print(f"  Map Palette: {map_pal_data.hex()}")
+        print(f"  Portrait Sprite Data: {portrait_sprite_data.hex()}")
+        print(f"  Portrait Palette: {portrait_pal_data.hex()}")
         
 
 # Batch processing function
