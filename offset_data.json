@@ -135,7 +135,7 @@
         "bat_palette":  "80 01 00 00 FF 7F FF 36 39 1E 0F 6D 8E 7E 1F 50 E0 02 D5 7D 86 5D 33 7B 0A 6E FB 7F 49 54 03 3C",
         "pal_start": "$0E7EA0",
         "portrait_start": "$0EE740",
-        "portrait_pal_start": "",
+        "portrait_pal_start": "$0687A0",
         "map_sprites_start": "$0DA700",
         "map_pal_index": "$0AB307"
     }
