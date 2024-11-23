@@ -14,6 +14,10 @@ def read_bytes(filename, offset, length):
         print(f"Error reading bytes: {e}")
         return b''
 
+# Mapping adjustment function
+def hirom_to_lorom(offset):
+    return (offset & 0x3FFFFF) | 0x8000
+
 # Function to process a single ROM
 def readfrom_rom(original_rom, offsets, output_file):
     print(f"Original ROM file: {original_rom}")
@@ -25,9 +29,10 @@ def readfrom_rom(original_rom, offsets, output_file):
             rom_size = original_rom.stat().st_size
             print(f"ROM file size: {rom_size} bytes")
 
-            # Parse start and end offsets
-            offset_start = int(info['offset_start'], 16)  # Hexadecimal conversion
-            offset_end = int(info['offset_end'], 16)  # Hexadecimal conversion
+            # Parse start and end offsets, compute to HiROM
+            offset_start = hirom_to_lorom(int(info['offset_start'], 16))  # Hexadecimal conversion
+            offset_end = hirom_to_lorom(int(info['offset_end'], 16))  # Hexadecimal conversion
+            print(f"Adjusted Offset Start: {hex(offset_start)}, End: {hex(offset_end)}")
 
             # Calculate length dynamically
             length = offset_end - offset_start
@@ -35,13 +40,13 @@ def readfrom_rom(original_rom, offsets, output_file):
             print(f"Offset start: {hex(offset_start)}, Offset end: {hex(offset_end)}, Length: {length}")
 
             # Read the specified range of bytes
-            # captured_bytes = read_bytes(original_rom, offset_start, length)
+            captured_bytes = read_bytes(original_rom, offset_start, 16)
 
-            # Debug test values injection
-            test_offset = 0xCA0000
-            test_length = 16  # Read 16 bytes
-            captured_bytes = read_bytes(original_rom, test_offset, test_length)
-            print(f"Test read (16 bytes): {captured_bytes.hex()}")
+            # # Debug test
+            # test_offset = 0xCA0000
+            # test_length = 16  # Read 16 bytes
+            # captured_bytes = read_bytes(original_rom, test_offset, test_length)
+            # print(f"Test read (16 bytes): {captured_bytes.hex()}")
 
 
             # Save captured bytes if any
