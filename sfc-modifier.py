@@ -38,19 +38,19 @@ def salvage_rom(original_rom, edited_rom, output_rom, offsets):
         palette_data = read_bytes(edited_rom, pal_start, 32) # 16 colors of 2 bytes each
         write_bytes(output_rom, pal_start, palette_data)    
 
-        # Read 16 tiles of portrait sprite data (256 bytes)
+        # Read & write 16 tiles of portrait sprite data (256 bytes)
         portrait_sprite_data = read_bytes(edited_rom, portrait_start, 256) 
         write_bytes(output_rom, portrait_start, portrait_sprite_data)
 
-        # Read 8 colors (16 bytes) of portrait palette data 
+        # Read & write 8 colors (16 bytes) of portrait palette data 
         portrait_pal_data = read_bytes(edited_rom, portrait_pal_start, 16)
         write_bytes(output_rom, portrait_pal_start, portrait_pal_data)
 
-        # Read 48 tiles of map sprite data
+        # Read & write 48 tiles of map sprite data
         map_sprite_data = read_bytes(edited_rom, map_sprites_start, 1536) # 48 tiles of 32 bytes each
         write_bytes(output_rom, map_sprites_start, map_sprite_data)
 
-        # Read 1 byte palette index
+        # Read & write 1 byte palette index
         map_pal_data = read_bytes(edited_rom, map_pal_index, 1) # 1 byte index value
         write_bytes(output_rom, map_pal_index, map_pal_data)
 
