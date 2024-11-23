@@ -40,7 +40,7 @@ def readfrom_rom(original_rom, offsets, output_file):
             print(f"Offset start: {hex(offset_start)}, Offset end: {hex(offset_end)}, Length: {length}")
 
             # Read the specified range of bytes
-            captured_bytes = read_bytes(original_rom, offset_start, 16)
+            captured_bytes = read_bytes(original_rom, offset_start, length)
 
             # # Debug test
             # test_offset = 0xCA0000
@@ -51,9 +51,11 @@ def readfrom_rom(original_rom, offsets, output_file):
 
             # Save captured bytes if any
             if captured_bytes:
-                with open(output_file, 'wb') as f:
-                    f.write(captured_bytes)
-                print(f"Captured bytes written to {output_file}")
+                with open(output_file, 'w') as f:
+                    hex_string = captured_bytes.hex() # Convert bytes to hexbytes
+                    hexbytes_string = ' '.join(hex_string[i:i+2] for i in range(0, len(hex_string), 2)) #Write in pairs
+                    f.write(hexbytes_string)
+                print(f"Captured hex bytes written to {output_file}")
             else:
                 print(f"No data captured for entry: {entry}")
 
@@ -74,7 +76,7 @@ script_dir = Path(__file__).parent
 
 # Set file paths
 original_rom = script_dir / 'ffvj.sfc'
-output_file = script_dir / f"captured-bytes-{original_rom.stem}.txt"
+output_file = script_dir / f"scraped-bytes-{original_rom.stem}.txt"
 
 # Check if original ROM exists
 if not original_rom.exists():
