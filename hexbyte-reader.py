@@ -18,18 +18,16 @@ def read_bytes(filename, offset, length):
 def hirom_to_lorom(offset):
     return (offset & 0x3FFFFF) | 0x8000
 
-# Function to process a single ROM
-def readfrom_rom(original_rom, offsets, output_file):
-    print(f"Original ROM file: {original_rom}")
-    print(f"Output file: {output_file}")
-    
+# Bulk processing function
+def bulk_read_rom(original_rom, offsets, output_dir):
+    print(f"Original rom file: {original_rom}")
+    print(f"Output directory: {output_dir}")
+
+    output_dir.mkdir(exist_ok=True) # Verify output_dir exists
+
     for entry, info in offsets.items():
         try:
-            # Debugging step for rom ID
-            rom_size = original_rom.stat().st_size
-            print(f"ROM file size: {rom_size} bytes")
-
-            # Parse start and end offsets, compute to HiROM
+            # Parse start and end offsets, assure HiROM addressing
             offset_start = hirom_to_lorom(int(info['offset_start'], 16))  # Hexadecimal conversion
             offset_end = hirom_to_lorom(int(info['offset_end'], 16))  # Hexadecimal conversion
             print(f"Adjusted Offset Start: {hex(offset_start)}, End: {hex(offset_end)}")
@@ -39,18 +37,13 @@ def readfrom_rom(original_rom, offsets, output_file):
             print(f"Processing entry: {entry}")
             print(f"Offset start: {hex(offset_start)}, Offset end: {hex(offset_end)}, Length: {length}")
 
-            # Read the specified range of bytes
+
+            # Read specified range of bytes
             captured_bytes = read_bytes(original_rom, offset_start, length)
 
-            # # Debug test
-            # test_offset = 0xCA0000
-            # test_length = 16  # Read 16 bytes
-            # captured_bytes = read_bytes(original_rom, test_offset, test_length)
-            # print(f"Test read (16 bytes): {captured_bytes.hex()}")
-
-
-            # Save captured bytes if any
+            # Save captured bytes as hexbytes to file with 'entry' as name
             if captured_bytes:
+                output_file = output_dir / f"{entry.replace(' ','_')}.txt"
                 with open(output_file, 'w') as f:
                     hex_string = captured_bytes.hex() # Convert bytes to hexbytes
                     hexbytes_string = ' '.join(hex_string[i:i+2] for i in range(0, len(hex_string), 2)) #Write in pairs
@@ -73,14 +66,14 @@ except Exception as e:
 
 # Define directories
 script_dir = Path(__file__).parent
+output_dir = script_dir / "FFVJ-scraping-output"
 
 # Set file paths
-original_rom = script_dir / 'ffvj.sfc'
-output_file = script_dir / f"scraped-bytes-{original_rom.stem}.txt"
+original_rom = script_dir / "ffvj.sfc"
 
 # Check if original ROM exists
 if not original_rom.exists():
     print(f"Error: Original ROM file {original_rom} does not exist")
 else:
     # Batch process invocation
-    readfrom_rom(original_rom, offsets, output_file)
+    bulk_read_rom(original_rom, offsets, output_dir)
