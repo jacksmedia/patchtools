@@ -10,13 +10,13 @@
 09=[TAB2]
 0A=[TAB3]
 0B=魔物
-0C=[FixedPause]
+0C=[Pause]
 0D=風の神殿
 0E=飛竜
 0F=[AutoClose]
-10=[DialogueGil]
-11=[DialogueItem]
-12=[DialogueAbility]
+10=[Gil]
+11=[Item]
+12=[Ability]
 13=封印
 14=シド 「
 15=ミド 「

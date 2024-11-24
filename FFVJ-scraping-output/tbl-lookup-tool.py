@@ -30,6 +30,14 @@ def translate_hex_file(hex_file, tbl_map, output_file):
         translated_text = []
         i = 0
         while i < len(hex_data):
+            # Determine if 2-byte leading value
+            if hex_data[i:i+2].upper() in {"17", "1E", "1F"} and i + 4 <= len(hex_data):
+                two_byte_key = hex_data[i:1+4].upper() # Reads pair of bytes
+                if two_byte_key in tbl_map:
+                    translated_text.append(tbl_map[two_byte_key])
+                    i += 4 # increment pointer
+            
+            # Return to 1-byte lookup
             byte = hex_data[i:i+2].upper()  # Read 2 characters at a time (1 byte)
             if byte in tbl_map:
                 translated_text.append(tbl_map[byte])
