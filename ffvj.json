@@ -1,7 +1,7 @@
 {
     "Dialogue-(J)": {
-        "offset_start": "CA0000",
-        "offset_end": "CB0000"
+        "offset_start": "0A0000",
+        "offset_end": "0AFFF3"
     },
     "Battle-dialogue-(J)": {
         "offset_start": "D0F1D4",
