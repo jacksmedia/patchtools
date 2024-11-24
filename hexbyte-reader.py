@@ -30,6 +30,8 @@ def bulk_read_rom(original_rom, offsets, output_dir):
             # Parse start and end offsets, assure HiROM addressing
             offset_start = hirom_to_lorom(int(info['offset_start'], 16))  # Hexadecimal conversion
             offset_end = hirom_to_lorom(int(info['offset_end'], 16))  # Hexadecimal conversion
+            # offset_start = int(info['offset_start'], 16)  # Hexadecimal conversion
+            # offset_end = int(info['offset_end'], 16)  # Hexadecimal conversion
             print(f"Adjusted Offset Start: {hex(offset_start)}, End: {hex(offset_end)}")
 
             # Calculate length dynamically
@@ -69,7 +71,7 @@ script_dir = Path(__file__).parent
 output_dir = script_dir / "FFVJ-scraping-output"
 
 # Set file paths
-original_rom = script_dir / "ffvj.sfc"
+original_rom = script_dir.parent / "ffvj.sfc"
 
 # Check if original ROM exists
 if not original_rom.exists():
