@@ -1,3 +1,4 @@
+import argparse
 import re
 from pathlib import Path
 
@@ -54,17 +55,18 @@ def translate_hex_file(hex_file, tbl_map, output_file):
 
 # Main script function
 def main():
-    # Define file paths
-    script_dir = Path(__file__).parent
-    tbl_file = script_dir / "dialogue-font.tbl"  # Replace with your TBL file
-    hex_file = script_dir / "Dialogue-(J).txt"  # Replace with your hex file
-    output_file = script_dir / "translated-Dialogue.txt"
+    # Parse arguments (params)
+    parser = argparse.ArgumentParser(description="Translate hexbytes using .TBL file.")
+    parser.add_argument("hex_file", help="Input hex file to process.")
+    parser.add_argument("tbl_file", help="Lookup table (.TBL) file with desired translations.")
+    parser.add_argument("output_file", help="File to save translations.")
+    args = parser.parse_args()
 
     # Parse the TBL file
-    tbl_map = parse_tbl(tbl_file)
+    tbl_map = parse_tbl(args.tbl_file)
 
     # Translate the hex file
-    translate_hex_file(hex_file, tbl_map, output_file)
+    translate_hex_file(args.hex_file, tbl_map, args.output_file)
 
 # Run the script
 if __name__ == "__main__":
