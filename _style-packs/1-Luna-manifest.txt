@@ -1,0 +1,27 @@
+Final Fantasy IV Ultima - Sylph-Bloodfeast Fix.ips
+_SquishBGone_v105.ips
+map Cid (PR, by xJ4cks).ips
+map Decil (PR, by xJ4cks).ips
+map Edge (PR, by xJ4cks).ips
+map Edward (PR, by xJ4cks).ips
+map Kain (PR, by xJ4cks).ips
+map Kydia (PR, by MObreck).ips
+map Palom (PR, by MObreck).ips
+map Pecil (PR, by xJ4cks).ips
+map Porom (PR, by MObreck).ips
+map Rosa (PR, by MObreck).ips
+map Rydia (PR, by MObreck).ips
+map Tellah (PR, by xJ4cks).ips
+map Yang (PR, by xJ4cks).ips
+portrait Cid (battle color, by xJ4cks).ips
+portrait Decil (battle color, by xJ4cks).ips
+portrait Edge (battle color, by xJ4cks).ips
+portrait FuSoYa (battle color, by xJ4cks).ips
+portrait Kain (battle color, by xJ4cks).ips
+portrait Palom (RK, battle color, by xJ4cks).ips
+portrait Pecil (battle color, by xJ4cks).ips
+portrait Porom (RK, battle color, by xJ4cks).ips
+portrait Rosa (battle color, by xJ4cks).ips
+portrait Rydia (battle color, by xJ4cks).ips
+portrait Tellah (battle color, by xJ4cks).ips
+portrait Yang (battle color, by xJ4cks).ips
