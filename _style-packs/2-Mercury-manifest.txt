@@ -1,3 +1,4 @@
+_SquishBGone_v105.ips
 Decil (classic, portrait colors, by xJ4cks).ips
 Edge (classic, portrait colors, by xJ4cks).ips
 Edward (classic, portrait colors, by xJ4cks).ips
@@ -5,17 +6,12 @@ Final Fantasy IV Ultima - Sylph-Bloodfeast Fix.ips
 FuSoYa (classic, lunar magic, by xJ4cks).ips
 Golbez (classic, Alt Colors, by tsushiy).ips
 Kydia (classic, portrait colors, pink magic, by xJ4cks).ips
-Palom (classic, better, by xJ4cks).ips
-Pecil (classic, portrait colors, by xJ4cks).ips
-Porom (classic, better, by xJ4cks).ips
-Rosa (classic, pink armor, by tsushiy).ips
-Rydia (classic, portrait colors, pink magic, by xJ4cks).ips
-SquishBGone 'I-NES'.ips
-Yang (classic, portrait colors, by xJ4cks).ips
-_SquishBGone_v105.ips
 map Edward (better, by xJ4cks).ips
 map Palom (PR, better, by xJ4cks).ips
 map Porom (PR, better, by xJ4cks).ips
+Palom (classic, better, by xJ4cks).ips
+Pecil (classic, portrait colors, by xJ4cks).ips
+Porom (classic, better, by xJ4cks).ips
 portrait Cid (better, by xJ4cks).ips
 portrait Edge (better, by xJ4cks).ips
 portrait FuSoYa (battle color, by xJ4cks).ips
@@ -28,3 +24,7 @@ portrait Rosa (PR ponytail, by FlamePurge).ips
 portrait Rydia (better, by xJ4cks).ips
 portrait Tellah (better, by xJ4cks).ips
 portrait Yang (better, by xJ4cks).ips
+Rosa (classic, pink armor, by tsushiy).ips
+Rydia (classic, portrait colors, pink magic, by xJ4cks).ips
+SquishBGone 'I-NES'.ips
+Yang (classic, portrait colors, by xJ4cks).ips

@@ -1,3 +1,4 @@
+_SquishBGone_v105.ips
 Cid (PR, by xJ4cks).ips
 Decil (PR, storm armor, by Nicoc1991).ips
 Edge (PR, classic colors, by Nicoc1991).ips
@@ -9,15 +10,6 @@ FuSoYa (PR, by xJ4cks).ips
 Golbez (PR, by MObreck).ips
 Kain (PR, twilight armor, by Nicoc1991).ips
 Kydia (PR, by MObreck).ips
-Palom (PR, by MObreck).ips
-Pecil (PR, by xJ4cks).ips
-Porom (PR, by MObreck).ips
-Rosa (PR, by xJ4cks).ips
-Rydia (PR, by MObreck).ips
-SquishBGone 'ULTIMA IV'.ips
-Tellah (PR, by xJ4cks).ips
-Yang (PR, by Nicoc1991).ips
-_SquishBGone_v105.ips
 map Cid (PR, by xJ4cks).ips
 map Decil (closed helmet, by Nicoc1991).ips
 map Edge (better, by xJ4cks).ips
@@ -30,3 +22,11 @@ map Rosa (PR, by MObreck).ips
 map Rydia (PR, by MObreck).ips
 map Tellah (PR, by xJ4cks).ips
 map Yang (PR, High Monk, by xJ4cks).ips
+Palom (PR, by MObreck).ips
+Pecil (PR, by xJ4cks).ips
+Porom (PR, by MObreck).ips
+Rosa (PR, by xJ4cks).ips
+Rydia (PR, by MObreck).ips
+SquishBGone 'ULTIMA IV'.ips
+Tellah (PR, by xJ4cks).ips
+Yang (PR, by Nicoc1991).ips

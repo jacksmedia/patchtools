@@ -1,16 +1,10 @@
+_SquishBGone_v105.ips
 Decil (classic, portrait colors, by xJ4cks).ips
 Edge (classic, map colors, by xJ4cks).ips
 Edward (classic, portrait colors, by xJ4cks).ips
 FuSoYa (classic, lunar magic, by xJ4cks).ips
 Kain (classic, portrait colors, by xJ4cks).ips
 Kydia (classic, portrait colors, pink magic, by xJ4cks).ips
-Palom (classic, better, by xJ4cks).ips
-Pecil (classic, portrait colors, by xJ4cks).ips
-Porom (classic, better, by xJ4cks).ips
-Rydia (classic, portrait colors, pink magic, by xJ4cks).ips
-SquishBGone 'I-NES'.ips
-Yang (classic, portrait colors, by xJ4cks).ips
-_SquishBGone_v105.ips
 map Cid (PR, by xJ4cks).ips
 map Decil (PR, by xJ4cks).ips
 map Edward (PR, by xJ4cks).ips
@@ -33,3 +27,9 @@ menu Porom (RK, battle color, by xJ4cks).ips
 menu Rosa (better, by xJ4cks).ips
 menu Rydia (better, by xJ4cks).ips
 menu Tellah (better, by xJ4cks).ips
+Palom (classic, better, by xJ4cks).ips
+Pecil (classic, portrait colors, by xJ4cks).ips
+Porom (classic, better, by xJ4cks).ips
+Rydia (classic, portrait colors, pink magic, by xJ4cks).ips
+SquishBGone 'I-NES'.ips
+Yang (classic, portrait colors, by xJ4cks).ips

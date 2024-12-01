@@ -9,19 +9,15 @@ Final Fantasy IV Ultima - Sylph-Bloodfeast Fix.ips
 FuSoYa (RK, lunar magic, by xJ4cks).ips
 Kain (RK, dark teal, by Nicoc1991).ips
 Kydia (RK, pink magic, by xJ4cks).ips
-Palom (RK, better, by xJ4cks).ips
-Pecil (RK, Cosmic w Cape Cheer, by T92).ips
-Porom (RK, better, by xJ4cks).ips
-Rosa (RK, DS colors + big cape, by T92).ips
-Rydia (RK, pink magic by xJ4cks).ips
-Tellah (RK, from T92).ips
-Yang (RK, better, by xJ4cks).ips
 map Edward (better, by xJ4cks).ips
 map Kain (green, by xJ4cks).ips
 map Palom (PR, better, by xJ4cks).ips
 map Pecil (PR, by xJ4cks).ips
 map Porom (PR, better, by xJ4cks).ips
 map Rosa (PR, by MObreck).ips
+Palom (RK, better, by xJ4cks).ips
+Pecil (RK, Cosmic w Cape Cheer, by T92).ips
+Porom (RK, better, by xJ4cks).ips
 portrait Cid (SR, redone, by mrBrawndo).ips
 portrait Decil (battle color, evil eyes, by xJ4cks).ips
 portrait Edge (better, by xJ4cks).ips
@@ -34,3 +30,7 @@ portrait Rosa (PR ponytail, by FlamePurge).ips
 portrait Rydia (better, by xJ4cks).ips
 portrait Yang (battle color, by xJ4cks).ips
 portrait Yang (better, by xJ4cks).ips
+Rosa (RK, DS colors + big cape, by T92).ips
+Rydia (RK, pink magic by xJ4cks).ips
+Tellah (RK, from T92).ips
+Yang (RK, better, by xJ4cks).ips
