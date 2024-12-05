@@ -71,7 +71,7 @@ def salvage_rom(original_rom, edited_rom, output_rom, offsets):
 def process_all_roms(corrupt_roms_dir, original_rom, offsets):
     # Iterate thru all corrupted roms in directory
     for corrupt_rom in corrupt_roms_dir.glob("*.sfc"):
-        output_rom = corrupt_roms_dir.parent / f"_salvaged_{corrupt_rom.name}"
+        output_rom = corrupt_roms_dir.parent / corrupt_rom.name
         print(f"Processing '{corrupt_rom}' into '{output_rom}'")
         salvage_rom(original_rom, corrupt_rom, output_rom, offsets)
     print("Batch process completed! Now make some fresh patches!")
