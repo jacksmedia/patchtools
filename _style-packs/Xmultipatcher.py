@@ -79,7 +79,7 @@ def sequential_patch_rom(rom_file, patch_directory, working_directory):
 
 # Example usage
 rom_file = rom_to_patch  # Target ROM path (.sfc or .smc)
-patch_directory = './10-Pluto'  # Directory containing .ips patches
+patch_directory = './X-Pluto'  # Directory containing .ips patches
 patch_name = patch_directory.rstrip('./')
 working_directory = './'  # Directory to store the working copy of the ROM and manifest
 

@@ -11,7 +11,7 @@ script_list = [
     "7multipatcher.py",
     "8multipatcher.py",
     "9multipatcher.py",
-    "10multipatcher.py"
+    "Xmultipatcher.py"
 ]
 
 def run_scripts_sequentially(scripts):
