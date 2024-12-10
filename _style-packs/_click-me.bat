@@ -1,1 +1,1 @@
-python packmaker.py
+python stylepacks-maker.py

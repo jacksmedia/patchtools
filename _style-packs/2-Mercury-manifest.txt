@@ -16,7 +16,6 @@ portrait Cid (better, by xJ4cks).ips
 portrait Edge (better, by xJ4cks).ips
 portrait FuSoYa (battle color, by xJ4cks).ips
 portrait Golbez (alt, yellow gold, by tsushiy).ips
-portrait Kain (simpler helmet, by Nicoc1991).ips
 portrait Palom (RK, blue, by xJ4cks).ips
 portrait Pecil (better, by xJ4cks).ips
 portrait Porom (RK, battle color, by xJ4cks).ips

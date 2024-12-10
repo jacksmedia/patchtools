@@ -1,3 +1,4 @@
+_All Characters RK Battle Sprites v1.3, from T92.ips
 _SquishBGone_v105.ips
 Cid (RK, gold + PURPLE, by xJ4cks).ips
 Decil (RK, darkest, by Nicoc1991).ips
@@ -34,6 +35,7 @@ portrait Rosa (PR ponytail, by FlamePurge).ips
 portrait Rydia (better, by xJ4cks).ips
 portrait Tellah (battle color, by xJ4cks).ips
 portrait Yang (battle color, by xJ4cks).ips
+Rosa (RK, DS colors + big cape, by T92).ips
 Rydia (RK, pink magic by xJ4cks).ips
 SquishBGone's Font Pack Stick Font.ips
 Tellah (RK, from T92).ips

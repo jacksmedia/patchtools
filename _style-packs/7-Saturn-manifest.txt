@@ -1,4 +1,4 @@
-Cid (RK, from T92).ips
+_All Characters RK Battle Sprites v1.3, from T92.ips
 Decil (RK, darkest, by unknown).ips
 Edge (RK, better, by xJ4cks).ips
 Edward (RK, portrait colors by xJ4cks).ips
@@ -32,5 +32,4 @@ portrait Yang (battle color, by xJ4cks).ips
 portrait Yang (better, by xJ4cks).ips
 Rosa (RK, DS colors + big cape, by T92).ips
 Rydia (RK, pink magic by xJ4cks).ips
-Tellah (RK, from T92).ips
 Yang (RK, better, by xJ4cks).ips

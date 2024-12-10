@@ -16,14 +16,13 @@ map Porom (PR, better, by xJ4cks).ips
 map Rosa (PR, by MObreck).ips
 map Rydia (PR, by MObreck).ips
 map Tellah (PR, by xJ4cks).ips
-map Yang (PR, by xJ4cks).ips
+map Yang (PR, High Monk, by xJ4cks).ips
 Palom (classic, better, by xJ4cks).ips
 Pecil (classic, portrait colors, by xJ4cks).ips
 Porom (classic, better, by xJ4cks).ips
 portrait Cid (better, by xJ4cks).ips
 portrait Edge (map color, by xJ4cks).ips
 portrait FuSoYa (battle color, by xJ4cks).ips
-portrait Kain (simpler helmet, by Nicoc1991).ips
 portrait Palom (RK, blue, by xJ4cks).ips
 portrait Pecil (better, by xJ4cks).ips
 portrait Porom (RK, battle color, by xJ4cks).ips
