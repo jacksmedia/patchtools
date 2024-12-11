@@ -3,10 +3,7 @@ import shutil
 
 # Define directories
 style_packs_dir = Path(__file__).parent  # Current working directory
-tools_dir = style_packs_dir.parent  # One directory up
-patchwork_dir = tools_dir.parent  # Two directories up
-documents_dir = patchwork_dir.parent # 3 dirs up, branch for other dirs
-style_packs_archive = documents_dir / "romhacking\\FFIV hacks\\__Final Fantasy 4 Ultima Plus patch archive\\new style packs (change many things)"
+style_packs_archive = Path("C:/Users/J4cks/Documents/romhacking/FFIV hacking/__Final Fantasy 4 Ultima Plus patch archive/new style packs (change many things)")
 
 # Function to copy then delete local .sfc files
 def move_sfc_files(src_dir, destination_dir):
