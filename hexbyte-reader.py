@@ -15,8 +15,8 @@ def read_bytes(filename, offset, length):
         return b''
 
 # Mapping adjustment function
-def hirom_to_lorom(offset):
-    return (offset & 0x3FFFFF) | 0x8000
+# def hirom_to_lorom(offset):
+#     return (offset & 0x3FFFFF) | 0x8000
 
 # Bulk processing function
 def bulk_read_rom(original_rom, offsets, output_dir):
@@ -28,8 +28,10 @@ def bulk_read_rom(original_rom, offsets, output_dir):
     for entry, info in offsets.items():
         try:
             # Parse start and end offsets, assure HiROM addressing
-            offset_start = hirom_to_lorom(int(info['offset_start'], 16))  # Hexadecimal conversion
-            offset_end = hirom_to_lorom(int(info['offset_end'], 16))  # Hexadecimal conversion
+            # offset_start = hirom_to_lorom(int(info['offset_start'], 16))  # Hexadecimal conversion
+            # offset_end = hirom_to_lorom(int(info['offset_end'], 16))  # Hexadecimal conversion
+            offset_start = int(info['offset_start'], 16)  # Hexadecimal conversion
+            offset_end = int(info['offset_end'], 16)  # Hexadecimal conversion
             # offset_start = int(info['offset_start'], 16)  # Hexadecimal conversion
             # offset_end = int(info['offset_end'], 16)  # Hexadecimal conversion
             print(f"Adjusted Offset Start: {hex(offset_start)}, End: {hex(offset_end)}")
@@ -59,7 +61,7 @@ def bulk_read_rom(original_rom, offsets, output_dir):
 
 # Import offsets from JSON
 try:
-    with open('ffvj.json', 'r') as f:
+    with open('ff5r-ic.json', 'r') as f:
         offsets = json.load(f)
     print("Offsets successfully loaded from JSON")
 except Exception as e:
