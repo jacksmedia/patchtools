@@ -70,7 +70,7 @@ except Exception as e:
 
 # Define directories
 script_dir = Path(__file__).parent
-output_dir = script_dir / "FF5r-IC-scraping-output1"
+output_dir = script_dir / "1-todays-output"
 
 # Set file paths
 # original_rom = script_dir.parent / "ffvj.sfc"

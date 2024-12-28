@@ -4,31 +4,31 @@
         "offset_end": "0AFF25"
     },
     "Battle-dialogue-(J)": {
-        "offset_start": "10F106",
-        "offset_end": "10FDEE"
+        "offset_start": "10F1D4",
+        "offset_end": "10FEBC"
     },
     "Weapons-(J)": {
-        "offset_start": "11173B",
-        "offset_end": "111A91"
+        "offset_start": "111392",
+        "offset_end": "1117F5"
     },
     "Armors-(J)": {
-        "offset_start": "11173B",
-        "offset_end": "111A91"
+        "offset_start": "111809",
+        "offset_end": "111B5F"
     },
     "Healing&c-Items-(J)": {
-        "offset_start": "111A92",
-        "offset_end": "111BB1"
+        "offset_start": "111B60",
+        "offset_end": "111C7F"
     },
     "Magics-(J)": {
-        "offset_start": "111BB2",
-        "offset_end": "111D61"
+        "offset_start": "111C80",
+        "offset_end": "111E2F"
     },
     "Blue-(J)": {
         "offset_start": "11200D",
         "offset_end": "11211A"
     },
     "Espers-(J)": {
-        "offset_start": "111D62",
-        "offset_end": "111DBB"
+        "offset_start": "111E30",
+        "offset_end": "111E89"
     }
 }
