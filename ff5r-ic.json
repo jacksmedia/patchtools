@@ -30,5 +30,9 @@
     "Espers-(J)": {
         "offset_start": "111E30",
         "offset_end": "111E89"
+    },
+    "MonsterNames":{
+        "offset_start": "105C00",
+        "offset_end": "106800"
     }
 }
