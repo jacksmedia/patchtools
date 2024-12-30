@@ -61,11 +61,11 @@ except Exception as e:
 
 # Define directories
 script_dir = Path(__file__).parent
-output_dir = script_dir / "1-todays-output"
+output_dir = script_dir / "1-disc-output"
 
 # Set file paths
 # original_rom = script_dir.parent / "ffvj.sfc"
-original_rom = script_dir.parent / "FF5r-IC Disc 1.sfc"
+original_rom = script_dir.parent / "FF5r-IC-1.sfc"
 
 # Check if original ROM exists
 if not original_rom.exists():

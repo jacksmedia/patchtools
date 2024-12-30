@@ -7,6 +7,10 @@
         "offset_start": "10F1D4",
         "offset_end": "10FEBC"
     },
+    "Battle-messages-(J)": {
+        "offset_start": "113BA9",
+        "offset_end": "114000"
+    },
     "Weapons-(J)": {
         "offset_start": "111392",
         "offset_end": "1117F5"
