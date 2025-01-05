@@ -3,13 +3,34 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Enhanced ROM Patcher</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Quattrocento:wght@400;700&family=Rubik+Mono+One&display=swap" rel="stylesheet">
+  <title>Browser ROM Patcher</title>
   <style>
+    .rubik-mono-one-regular {
+      font-family: "Rubik Mono One", serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+    .quattrocento-sans-regular {
+      font-family: "Quattrocento Sans", serif;
+      font-weight: 400;
+      font-style: normal;
+    }
     body {
-      font-family: Arial, sans-serif;
+      font-family: "Quattrocento Sans", Arial, sans-serif;
+      background: lightskyblue;
+    }
+    h1 {
+        font-family: "Rubik Mono One", serif;
+    }
+    h2 {
+        font-family: "Rubik Mono One", serif;
     }
     .file-upload {
       margin-bottom: 10px;
+      background-color: turquoise;
     }
     #additional-uploads {
       margin-top: 10px;
@@ -17,12 +38,52 @@
     #manifest {
       white-space: pre-wrap;
       margin-top: 20px;
+      margin-left: 20px;
+      background-color: antiquewhite;
     }
+    #patch {
+      background-color: fuchsia;
+      font-family: "Rubik Mono One", serif;
+    }
+/* adapted from https://stackoverflow.com/questions/23441060/how-to-animate-gradients-using-css */
+    #gradient
+{
+    height:100vh;
+    width:100vw;
+    background: linear-gradient(130deg, turquoise, #ffffff, #ff00ff);
+    background-size: 200% 200%;
+
+    -webkit-animation: Animation 23s ease infinite;
+    -moz-animation: Animation 23s ease infinite;
+    animation: Animation 23s ease infinite;
+}
+
+@-webkit-keyframes Animation {
+    0%{background-position:10% 0%}
+    50%{background-position:91% 100%}
+    100%{background-position:10% 0%}
+}
+@-moz-keyframes Animation {
+    0%{background-position:10% 0%}
+    50%{background-position:91% 100%}
+    100%{background-position:10% 0%}
+}
+@keyframes Animation { 
+    0%{background-position:10% 0%}
+    50%{background-position:91% 100%}
+    100%{background-position:10% 0%}
+}
+
+
   </style>
 </head>
-<body>
-  <h1>Enhanced Browser-Based ROM Patcher</h1>
+<body id="gradient">
+  <h1>Browser-Based ROM Patcher</h1>
+  <h2>
+    by xJ4cks & ChatGPT4
+  </h2>
   <p>Upload your ROM and multiple IPS patches to create a patched ROM.</p>
+  <p>No servers are required, and future versions of this app will offer curated lists of patches.</p>
 
   <!-- ROM Upload -->
   <div class="file-upload">
@@ -51,11 +112,11 @@
   </div>
 
   <!-- Button to Add More Uploads -->
-  <button id="add-upload">Another Upload</button>
+  <button id="add-upload">Another Upload? Click me!</button>
   <br><br>
 
   <!-- Patch Button -->
-  <button id="patch">Apply Patches</button>
+  <button id="patch">Apply Patches<br/>and Download</button>
 
   <!-- Manifest and Download -->
   <div id="manifest"></div>
