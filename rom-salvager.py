@@ -87,7 +87,7 @@ script_dir = Path(__file__).parent # this dir
 corrupt_roms_dir = script_dir / 'corrupted'
 
 # Set original rom path
-original_rom = script_dir.parent / '_original-rom.sfc'
+original_rom = script_dir.parent / 'ff2 v1.1.sfc'
 
 # Batch process invocation
 process_all_roms(corrupt_roms_dir, original_rom, offsets)

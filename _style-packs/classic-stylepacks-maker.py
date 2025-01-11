@@ -10,7 +10,7 @@ tools_dir = style_packs_dir.parent  # One directory up
 patchwork_dir = tools_dir.parent  # Two directories up
 
 # Locate original ROM
-rom_to_patch = patchwork_dir / '_RC-rom.sfc'
+rom_to_patch = patchwork_dir / 'UltimaClassic(rev25c).sfc'
 
 # Function to apply a single IPS patch to working ROM copy
 def apply_patch(rom_path, patch_path):
@@ -36,7 +36,7 @@ def apply_patch(rom_path, patch_path):
 def sequential_patch_rom(rom_file, patch_directory):
     try:
         # Create a working copy of ROM file
-        rom_filename = f'{patch_directory.name}-Plus.sfc'
+        rom_filename = f'{patch_directory.name}-Classic.sfc'
         working_rom = style_packs_dir / rom_filename
         shutil.copyfile(rom_file, working_rom)
         print(f"Created working copy of the ROM: {working_rom}")
