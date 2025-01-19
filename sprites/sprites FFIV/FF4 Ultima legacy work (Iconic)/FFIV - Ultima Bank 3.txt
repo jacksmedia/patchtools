@@ -1,0 +1,1755 @@
+This is a Save Point.
+[Tent]Tents and [Tent]Cottages may
+be used here.
+
+Golbez:We defeated him.
+Fusoya:It's a pity.
+($09)($09)The evil consuming him
+made it impossible to use
+his powers for good.
+
+     CONGRATULATIONS
+Final Fantasy IV - Ultima
+       COMPLETE!
+($09)You have unlocked
+New Game+.
+To activate,read the
+following carefully.
+1.SAVE the game right now!
+2.RESET the game.
+3.LOAD your save,then
+  speak to the Flame.
+You retain these in NG+:
+-All acquired magic.
+-Entire inventory.
+-Everyone's loadout.
+Further,the caps for EXP,
+levels,and stats have
+been raised and can go
+above their previous max.
+($09)     ENJOY NEW GAME+!
+
+How're my ships doin'?
+…Hey,somethin' up?
+Cecil:To tell the truth…
+($09)Cid:What?! Who's gonna
+lead the Red Wings,then?!
+What the heck's the king
+thinkin'…
+I'm not gonna make him
+another airship if he's
+usin' 'em to start
+unprovoked wars!
+Hey,I gotta get goin'.
+Hilda's worried 'cause
+I've been pullin' too many
+all-nighters.
+How 'bout you,Cecil?
+Keepin' up the basics?
+Cecil:I don't think…
+Cid:What?!
+Get your rear down to the
+Training Room tomorrow!
+Things are changin' by the
+day - stay prepared!
+…Oof,I really gotta scram.
+
+Rydia:Is this it?
+There's really nothing we
+can do?
+($09)Cecil:What's that?!
+
+($09)        Welcome to
+        Boss Rush!
+($09)Here,you'll face a total
+of 7 waves of enemies,and
+be rewarded after each
+wave.
+However,if your whole team
+is Wounded,your progress
+in the current wave will
+be lost!
+Also,if you leave the
+Boss Rush Room,the waves
+will reset.
+($09)This expert challenge has
+many surprises in store,
+and gets more difficult
+as you progress.
+You can use the Save Point
+ejust below here to save
+between each wave.
+($09)Good luck!
+($09)($09)($09)Incidentally…if you want
+to change your party,I can
+quickly 'transport' you to
+the Lunar Whale and back.
+
+Edward:Cecil!
+Let me show you the
+courage you taught me!
+
+Hey there! Super Bosses
+giving you trouble? Start
+using Advanced Battle
+Strategies.
+But be careful.Some bosses
+won't be too happy with
+these strats…use them at
+your own peril!
+…Huh? Why am I here…?
+They thought Chief needed
+an assistant,that's all.
+
+Remarkable…
+($09)($09)($09)      Legendary Bow
+     of Mythic Heroes
+-[Bow]Perseus Bow and [Hammer]Arrows-
+    Nocked and Loaded![Song][Claw]
+Also received…
+[Helm]Lunar Helm!
+[Key]Crystal Key!
+
+Yang:I can't sleep while
+you're fighting.
+Count me in.
+
+Cecil:Everyone!
+
+Tellah:Who is Golbez?
+($09)($09)($09)Edward:All…all I know is
+he's gathering the
+Crystals…using the Red
+Wings… -sob-
+Tellah:Enough! Tears won't
+bring Anna back!
+($09)($09)Curse you,Golbez! I'm
+coming to avenge my
+daughter!!
+
+Porom:That is the reason
+we accompanied you.
+Palom:Sorry we didn't
+tell you.
+Cecil:A logical choice.
+I would've done the same.
+($09)($09)Elder:But you overcame
+your past and are now a
+paladin! How marvelous -
+…?! That…sword…
+Cecil:I received it on
+Mt.Ordeals.
+Elder:It's engraved with
+the Mysidian Legend!
+
+Edge:And how can we be
+so sure you won't lose
+your mind to Zemus?
+
+Yang:Who are you?
+Edge:I'm Prince Edge
+of Eblan.They have me,
+so you get better.
+Yang:But I must…
+Sylph:Don't force
+yourself! We'll help them
+instead!
+
+King:Yang,I'm honored to
+see you again.It's clear
+that your training has
+served you well.
+Yet,I sense you forget
+defense can be as powerful
+as offense.
+Therefore…
+…Allow me to teach you
+once more.
+
+Kain:Rosa…
+($09)($09)($09)Rosa:Golbez was also
+under Zemus' control.
+It's no fault of
+Kain's.
+Kain:Golbez…too?
+
+Sorcerer Golbez can now
+join your party!
+($09)($09)NOTE:Golbez will not gain
+EXP or levels if not on
+the active team.
+
+Cecil:You're not the only
+one suffering.I'm sure
+Anna would want you to
+help those in need.
+I'm Cecil.I'm looking
+for a [Crystal]Sand Ruby to help
+my ill friend in Kaipo.
+($09)Edward:You need…me?
+Cecil:Yes,you.
+
+I…don't believe it…!
+You…actually did it!!
+Here,you've earned this.
+($09)($09)   Received the Fabled
+     -[Armor]Mystic Armor-[Song][Dark Sword]
+
+King:Cecil,you have
+earned the right to use
+one of these mirrors.
+($09)It allows one to assume
+the power of dark or light
+at will.Use it wisely.
+($09)Received [Crystal]Lunarian Mirror!
+
+Fusoya:This is the heart
+of the Giant,the CPU!
+($09)($09)We must destroy it!
+
+King:Brace yourself wisely
+in battle,and none shall
+break your guard!
+($09)Yang:Yes,Your Majesty!
+($09)($09)($09)Command Upgrade:
+Brace will now make Yang
+invincible to physical
+damage.[Song][Claw]
+
+Golbez:I've had enough of
+you foiling my plans!
+Time to pay!!
+($09)Fusoya:You!
+
+Golbez:G-Get back!
+Fusoya:Don't you realize
+who you are? Wake up!
+($09)Fusoya used [Crystal]Crystal! 
+
+Golbez:…Am I…free…of the
+hatred…?
+($09)($09)Fusoya:You've come to your
+senses…Theodor.
+Do you recall your
+father's name?
+Golbez:My father? His name
+is…KluYa.
+Cecil:…What?
+Rosa:That means…
+Cecil:Golbez is my…
+brother?
+($09)($09)Fusoya:Zemus is a
+telepath.Your Lunarian
+blood made it easy for him
+to use you.
+
+Cecil:I've been fighting
+my own brother all along…
+Golbez:Brother…I…I'm
+sorry.
+Cecil:That means…it could
+have been me! I could
+have become Zemus' pawn.
+($09)Golbez:But you didn't.My
+soul was stained with
+evil,and so I…
+I…!
+
+Cecil:Where are you
+going?
+($09)($09)Golbez:To settle this once
+and for all!!
+
+Cid:You wanna chase
+after 'em?!
+($09)($09)Move the airship with the
+D-Pad.Press A to get on 'n
+off.Ya can't land on a
+forest,mountain,or desert.
+Press Y to toggle slow 
+mode - it's great for a
+precise landin'!
+($09)Cecil:…No.Set course for
+Troia.
+Cid:…
+($09)…Well,she's surrounded by
+thick woods to the
+northwest.
+($09)We can't land the
+Enterprise nearby - we're
+gonna have to get there
+another way.
+
+Fusoya:Zemus is a fellow
+Lunarian.It is my
+responsibility to stop
+him.I'll join you.
+
+  Sword of Dark Eternal
+      - [Sword]Valhalla -
+         Ascends!
+($09)Received [Ring]Omega Ring!
+($09)($09)($09)Rydia learned
+[Black]BlackHole!
+
+Edge:Are you gonna just
+let him go like this?
+Rosa:He may lose his
+life!
+Cecil:…
+($09)($09)($09)Rydia:…He is your big
+brother.
+($09)($09)Cecil:My…brother…
+
+
+Edge:It's collapsing!
+Rydia:We need to go!
+Rosa:Cecil!
+Cecil:…
+
+Rydia:We're not gonna
+make it to the exit!!
+($09)($09)?:This way!
+
+Fusoya:Is everyone
+alright?
+($09)($09)…
+($09)($09)($09)The situation is dire.
+Zeromus must be dealt
+with.
+($09)Let us return to the
+Lunar Whale for now.
+
+Kain:I've regained my
+senses at last.I'm ready
+to face the consequences
+of my actions.
+
+This mountain is so
+peaceful.Why don't
+you rest here…
+($09)…for all eternity!
+
+Rosa:Golbez is Cecil's
+brother…
+Cecil:…
+($09)Rosa:A Lunarian named
+Zemus controlled him from
+the Moon.
+($09)Kain:So even Golbez was
+a pawn in the end…
+Then I know who I must
+face.
+
+Edge:Then I'm going,too.
+I've got a score to settle
+with Zemus,myself.
+Cecil:Then it's decided.
+
+Yang:Oh,Cecil!
+Cecil:Yang!
+Rydia:You're alive!
+($09)Yang:The sylphs saved me
+when I was in trouble.
+Rosa:Your bravery saved
+the dwarves.
+Yang:I'll…go with you…
+Sylph:No! You stay and
+rest!
+
+Edge:Now Rydia,be a
+good girl and stay home.
+Rydia:Don't talk to me!
+
+Edge:Well,we've got our
+own little army now,
+Cecil.C'mon! Let's kick
+Zemus' tail!
+Cecil:Agreed.
+If anyone has unfinished
+business,please speak now.
+($09)Yang:I would like to
+train at Fabul one last
+time.
+($09)Cecil:Alright.
+Any others?
+($09)($09)Porom:It's likely Elder
+has something for Palom
+and me.May we return to
+Mysidia?
+Palom:Ooh,great idea!
+I said it first!
+Porom:-sigh-
+($09)Cecil:Of course we can
+go.
+…And you,Edward?
+($09)Edward:I am prepared.
+I am ready to share with
+the world the love that
+Anna has shown me.
+Yet now I see that a
+warrior must wield more
+than love alone.
+($09)The Troian doctor has
+honed my chemist skill -
+I can now Salve any attack
+or healing item.
+Also…I will no longer Hide
+when in peril.You taught
+me that courage,Cecil.
+Cecil:You've quite grown.
+Now…everyone!
+It's time to end this,
+and save the world once
+and for all!
+
+Elder:Palom,Porom!
+($09)($09)($09)I know that fate is
+guiding you both toward
+the Moon.
+($09)As I cannot look after you
+two while you follow your
+path…
+($09)I must teach you one
+last lesson.It shall aid
+you in this darkest of
+hours.
+It is time you learn…
+the Power of the Cosmos,
+the Ultimate Twin Magic
+of Mysidia!
+
+That foul little Dark Elf!
+($09)($09)($09)He got the Earth Crystal
+before me…
+Curse his magical prowess…
+Hmph!
+…
+($09)($09)($09)…Wait a moment,something
+much more valuable just
+waltzed in.
+($09)Why,hello.
+Aren't you that renegade
+that Baron's after?
+Cecil…am I right?
+Hehehe…!
+The fearsome Captain of
+the Red Wings,reduced to
+a common bounty…
+I'll bet you'll fetch
+quite the reward,even if I
+turn in just your head…
+Hehehe!!
+
+Cecil:…Edge,activate
+the crystal.We're going
+back to Earth,now.
+($09)Rosa:Don't you dare!
+Cecil:Why are you doing
+this?!
+($09)Rosa:Cecil,can't you
+understand? It doesn't
+matter how dangerous
+it gets…
+All I want is to fight
+by your side!
+($09)($09)Yang:There's no love
+stronger than one forged
+in battle,Cecil.
+($09)Rosa:Oh!
+Hello,Yang!
+($09)($09)Cecil:…Understood.
+Rosa…
+Whatever happens…
+($09)I will protect you![Song]($13)
+
+Edge:Rydia!
+($09)($09)($09)Rydia:Didn't I say we're
+all fighting for a common
+cause? Besides,I'm the
+only caller you have!
+Cecil:Rydia…
+You're right.
+Let's do this!
+
+Cecil:But Rosa,Rydia.
+You get off here.
+Rosa:Cecil!!
+Rydia:What?!
+Cecil:It's too risky.
+There's no guarantee of
+safe return this time.
+($09)Rosa:I can't believe
+this…
+Cecil:Please get off the
+Lunar Whale.
+
+Goddess:Halt.
+Such imprudence is
+impermissible.
+($09)You may not yet wield this
+Destructive Power.
+Attempting so shall invite
+certain death.
+Seek first the Goddess and
+then return.Only then
+shall you stand a chance.
+($09)I shall await you. 
+
+King:…I see.Yang,go with
+them.We owe Cecil much.
+A ship will be arranged
+soon.
+Cecil,take this blade.A
+wandering dark knight left
+it here long ago.
+($09)Just remember…a dark sword
+will never truly conquer
+evil.
+
+Cecil:…
+
+Neo Bahamut:I have one
+last gift.You are he who
+will probe the depths of
+the Crystal Spire.
+I entrust you with this.
+($09)($09)($09)Received [Key]Lunar Key!
+
+We are the Absolute
+Darkness…
+The product of Zemus'
+hatred…
+
+Received…
+[Black]Anti-Matter!
+[Black]Void Stone!
+
+Cecil:Zeromus!
+($09)($09)($09)For all those living on
+Earth…
+($09)($09)I will vanquish you!
+
+…We…will…not…perish…as…
+long…as…there…is…evil…in…
+the…hearts…of…people…
+-huff-
+Grr…ZRR…
+($09)($09)($09)GRRAAAHH!!
+
+Welcome,children.
+I sense you've felled that
+heinous Goddess.
+($09)I thank you for proving I
+am the stronger deity.
+That fool was never fit to
+guard [Sword]Ultima.
+Hmph,the 'Power of Light.'
+So unlike my sorcery of
+the four elements.
+($09)I shall reward you all
+with a shower of flame,
+frost,volt,and gale.
+($09)None have succeeded in
+countering my magic.
+You will be lain to waste.
+Ha-ha-ha-ha!!
+
+Fusoya:I had no idea you
+had such strength! You're
+more powerful than we
+Lunarians.
+
+Elder:What do you want
+from us this time?
+($09)($09)Cecil:I am Cecil,
+ex-captain of the Red
+Wings.I've come to beg
+forgiveness for my sins.
+Elder:Apologies won't
+bring back our fallen
+friends.However,I'll
+listen to your plight.
+Cecil:Thank you.
+I'm battling one called
+Golbez,the mastermind of
+Baron.He has captured
+someone dear to me.My
+comrades and I set out to
+rescue her,but Leviathan
+sundered the ship…
+Elder:It would seem this
+is your trial…but as long
+as you depend on the dark
+sword,you'll never defeat
+true evil.Moreover,you
+could be consumed by its
+darkness at any time.
+($09)Cecil:Yes,I know this -
+Rosa is in danger!
+($09)($09)Elder:You can save no one
+as you are now! You would
+need to climb Mt.Ordeals
+and become a paladin.
+Cecil:Paladin?
+Elder:This warrior is he
+who wields the sacred
+light.
+However,many have sought
+to overcome Mt.Ordeals,
+yet none returned.
+Will you try?
+Cecil:…I will.
+($09)($09)($09)Elder:With your dark sword
+alone,this trial may prove
+too dire.I'll have my
+apprentices join you.
+Palom! Porom!
+
+    The Legendary Lyre
+      - [Harp]Loki Lute -
+         Attained!
+
+Cecil:Who are you?
+($09)($09)($09)I am Fusoya,guardian of
+the Lunarians' slumber.
+($09)($09)Rosa:Lunarians?
+Fusoya:Yes.Millennia ago,
+a planet between Jupiter
+and Mars was destroyed.
+The people who survived
+this escaped on arks and
+headed for the Blue
+Planet - your world,Earth.
+However,the people of
+that planet were still in
+the process of evolution.
+($09)Thus,the Lunarians made
+a second moon and went to
+sleep.
+($09)Edge:I don't believe
+this!
+
+Fusoya:But one man
+refused.He wanted to take
+the Blue Planet for
+himself.
+I forced him to sleep,but
+his mind remained lucid.
+
+Cecil:Who is he?
+Fusoya:Zemus,the one who
+orchestrated the conquest
+of the Crystals.
+Rydia:Golbez's master?!
+Fusoya:He needed the
+Crystals to activate the
+Tower of Babil,and in
+turn revive the Giant of
+Babil - all so he could
+annihilate the people of
+Earth.
+Edge:Hey,did you guys
+make the Lunar Whale?
+($09)($09)Fusoya:That was created by
+my brother,KluYa,to visit
+the Blue Planet.
+($09)He taught your kind to
+build airships,and
+devised the Devil Road.
+($09)There,he fell in love
+with a woman named
+Cecilia.Soon thereafter,
+she conceived.
+You are KluYa's son,
+Cecil.
+
+Mechanics:Readying
+cannons,Chief!
+
+Cecil:Then the light of
+Mt.Ordeals was…!
+Fusoya:Indeed,the spirit
+of KluYa.
+Cecil:My father is that
+light…
+($09)($09)Fusoya:KluYa gave you his
+power to thwart Zemus'
+devilry.
+($09)He must be stopped,for the
+sake of all living things!
+Come,make haste for the
+Tower of Babil.
+Rosa:But the Crystal
+Room - won't Golbez have
+it shielded?
+
+Fusoya:I can neutralize
+the shield.
+I'll go with you.
+($09)All-Mage Fusoya joined![Song][Claw]($05)[Float]
+
+Cecil:But Zeromus' last
+words…
+
+'As long as there is evil
+in the hearts of people…'
+($09)($09)Fusoya:Each of us bears
+a touch of darkness,as
+surely as we bear light.
+($09)It is much the same as the
+twin sets of Crystals and
+worlds.Yet as long as
+there is darkness,
+so too will there be
+light - just as your
+brilliance triumphed over
+Zemus.
+
+In the end,we really did
+triumph…
+It's incredible.
+
+Sage Tellah joined!($05)[Float]($06)
+
+Rydia:…No.I hate fire!
+Cecil:It's because Mist
+was destroyed by fire
+when…
+
+Fusoya:I must return to my
+slumber.What will you do?
+
+Cecil:We'll go back to
+Earth.There are people
+expecting us.
+
+Fusoya:I see.
+You were great allies.I
+look forward to seeing
+how humanity evolves.
+
+Golbez:May I join you?
+I can never go back,
+considering what I've
+done.
+Besides,I'd like to
+meet my father's people.
+($09)($09)Fusoya:If you wish,but it
+will be a very long
+sleep.
+Golbez:I understand.
+
+Golbez:I'm sorry,Cecil.
+($09)($09)($09)Cecil:…
+($09)($09)($09)Golbez:…I know you can
+never forgive or forget
+my actions.I caused you
+such anguish…
+
+Fusoya:We must go now.
+May your all your lives be
+prosperous.
+
+Cecil…
+($09)($09)($09)It's your last chance,
+Cecil!
+($09)($09)Say something!
+
+Received…
+($09)($09)($09)[Helm]Grand Helm!
+[Helm]Ribbon!
+[Black]Void Stone!
+[Black]Anti-Matter!
+Command Upgrade:
+Dark will no longer
+consume Dark Knight
+Cecil's HP.
+
+Cecil:…
+($09)($09)($09)Goodbye,Theodor.
+($09)($09)($09)…My brother!
+
+Fusoya:Cecil,take this
+[Crystal]Crystal.Let its Power of
+Light guide you…
+Cecil:But what about you?
+Fusoya:I will remain here
+to aid your engineer.Kluya
+had mastered the skies,but
+I have mastered the stars.
+Golbez:Cecil…I have
+faith that you will do
+what I could not.
+($09)Fusoya:…Theodor.
+Go with Cecil.
+Golbez:?!
+($09)Fusoya:I believe you
+have light in you yet,
+and together,you will
+eradicate Zeromus.
+Golbez:…Very well.
+Cecil:…Indeed.
+He may fight at our side.
+His trust will be earned.
+
+Elder:Let's start today's
+lesson.
+Porom:Yes,Elder.
+($05)[Shuriken]
+Elder:…Where's Palom?
+Porom:Again?
+I'll retrieve him!($05)[Frog]($06)
+
+Palom:…It was then I cast
+[Black]Ice to douse the flames…($05)[Frog]($06)
+
+Palom:Ow!
+Porom:Leave that girl
+alone!
+Elder's waiting for you.($05)[Knife]($06)
+
+Elder:How many times must
+I tell you not to skip
+lessons? You deserve extra
+homework tonight.($05)[White]($06)
+
+Palom:Please,no!($05)($12)($06)
+
+Porom:Ha-ha!
+Serves you right.($05)($12)($06)
+
+Steward:Your Highness,
+as future ruler of our
+kingdom,you have
+obligations to uphold!($05)[Shuriken]($06)
+
+Edge:I got it!($05)($10)($06)
+
+Steward:Sire,you cannot
+keep chasing after a
+fantasy.($05)[Shuriken]
+Edge:Yeah,yeah…
+Steward:I beg you,sire…($05)[Frog]($06)
+
+Edge:Hmm…Rydia.
+There's just no one else
+who could ever measure up
+to you.($05)[Shuriken]($06)
+
+Asura:I never thought that
+she would return.
+Leviathan:Indeed.
+($05)[Staff]
+?:Rydia!($05)($12)($06)
+
+Rydia:Right,Cecil?($05)($10)($06)
+
+Esper Child:Why don't you
+have fangs like us,
+Rydia?
+Are we different?($05)[Shuriken]($06)
+
+Rydia:Nope!
+There's nothing different
+between us.($05)[Mute]($06)
+
+Asura:It's about to get
+much livelier around here.
+Leviathan:Yes,she's truly
+a remarkable girl.($05)[Shuriken]($06)
+
+Rydia:…What's inside is
+what matters most.($05)($12)($06)
+
+King Edward!($05)($12)($06)
+
+Boy:Sing us the Song of
+the Paladin again!
+Edward:Let's finish
+today's work first.($05)($20)
+Don't you want to rebuild
+our castle?($05)[Pig]($06)
+
+Girl:OK,it's a promise!($05)($1C)($06)
+
+Edward:Do you see me,Anna?
+I'll help the people of
+Damcyan for us both.($05)[Blind]
+($09)Tellah,please keep her
+company…($05)($16)($06)
+
+Sheila:Honey!($05)($12)($06)
+
+Yang:Stop calling me
+that,please.
+You're a queen now.
+($05)[Shuriken]
+Sheila:You know I hate
+formalities.Anyway -
+Yang:Oh,you're right.
+Time for training!($05)[Armor]($06)
+
+Former King:I'm sure that
+you and Yang will lead
+Fabul to prosperity.($05)[Knife]($06)
+
+Lali-ho!($05)($10)($06)
+
+Giott:Give it your all!
+Rebuild our castle as
+fast as possible!($05)[Knife]($06)
+
+Your Majesty,
+we're out of materials.($05)[Stone]($06)
+
+Giott:Scrap the tanks!
+We enter into an era of
+peace!($05)[Spear]($06)
+
+Luca:I wonder how Cecil
+and the others are doing?($05)($1A)($06)
+
+Giott:Word is,Cecil will
+be crowned King of Baron,
+and marry Rosa as his
+queen.($05)A
+Luca:Really?
+Giott:And we are invited
+to their ceremony!
+Luca:How wonderful!($05)[Boomerang]($06)
+
+Your Majesty,I expected
+you'd also lend a hand!($05)_($06)
+
+Giott:I am!
+I'm the one in charge.($05)($11)($06)
+
+Kain:Cecil…Rosa…
+($09)($09) ($05)[Dark Sword]
+I've no right to share in
+your joy.If,on Mt.Ordeals,
+I can surpass my father as
+a dragoon…($05)[Armor]
+…We'll meet again.($05)($1E)($06)
+
+Oh!($05)($0A)($06)
+
+Kory:What?($05)($10)($06)
+
+The Moon!($05)($18)($06)
+
+Cecil:…!($05)($11)($06)
+
+Rosa:What's wrong?
+($09)($09) ($05)($13)
+Cecil:It's nothing,
+my love.($05)($1D)
+($09)($09)Rosa:…Alright.($05)($1F)($06)
+
+Received [Sword]Ultima II!
+
+Cecil:You look wonderful.($05)[Frog]($06)
+
+Cid:Hey! What's the
+holdup?! They're waitin'
+on ya!($05)($20)
+($09)Rosa:Sorry!($05)($13)($06)
+
+Cid:You have plenty of
+time later to spend
+together,Rosa!
+($05)[Claw]
+Er,I mean,Your Majesty.($05)_($06)
+
+Rosa:To you,I've been
+'Rosa' all my life -
+this shouldn't change
+anything!($05)[Claw]($06)
+
+Cid:OK,Rosa!
+The maids're waitin' to
+finish your wedding look.
+Hurry up!($05)[Blind]($06)
+
+Golbez:Cecil…
+Use…this!
+
+Rosa:It's been awhile
+since we've seen
+everyone…I'm so excited!($05)[Staff]($06)
+
+Cecil:I heard my brother…
+($09)($09) ($05)($1C)
+He said…
+($09)($09) ($05)($13)
+'Farewell.'($05)($1E)($06)
+
+Edward:Anna…($05)($10)($06)
+
+Yang:Let's go!($05)($10)($06)
+
+We are…Zeromus…
+We…are…animosity![Song]($0B)
+
+Fusoya:Death must have
+deepened Zemus' hate a
+hundredfold!
+
+Golbez:Zemus…no,Zeromus!
+I'll cast you back into
+the darkness!
+
+  Received the Legendary
+    [Helm]Locke's Bandana!
+($09)($09)Equip this to double the
+rate at which enemies drop
+items.
+
+Zeromus:…Suffer…
+and…perish…
+All will be consumed by
+our hatred…
+It's your turn…
+Enter our darkness!
+
+Palom and Porom's
+Twin Magic can now conjure
+the Powers of the Cosmos!
+($09)Palom learned [Black]Starfall!
+($09)($09)($09)Elder:Palom,Porom…
+take these.
+
+($09)        Received…
+($09)($09)      Sword of Valor
+     - [Sword]Brave Blade -
+   Dagger of Cowardice
+    - [Knife]Chicken Knife -
+'Fight or Flight' shall
+rule the power of these
+blades!
+
+Cecil learned a new
+spell!
+
+Elder:Now is the time to
+pray for Earth's future!
+
+Elder:Come! Let us send
+our prayers to Cecil!
+
+Sheila:Honey! Concentrate,
+do your best,and…
+($09)($09)Smash 'em good!!
+
+Hilda:Dad…everyone!
+You'd better come back
+alive,or I'll drag you
+back myself!!
+
+Joanna:Rosa… Cecil…
+defend your friends…
+and everyone on Earth!
+
+Within these blades lie
+the souls of two warriors.
+A Dagger of Cowardice.
+A Sword of Valor.
+Before these blades stands
+a terrible weapon meant to
+guard them.
+($09)Now…rise…!
+
+     The Master Fist 
+    - [Claw]Dragon Claw -
+        Acquired!
+($09) Received the Formidable
+   - [Ring]Berserk Ring! -
+
+     Blade of Smiting
+       - [Knife]Gladius -
+        Dispatched!($05)[Float]
+
+Rydia learned [Call]Asura![Song][Claw]
+($09)($09)($09)Asura:Rydia,it's time you
+take this as well…when we
+found you,it was lying
+nearby.
+Since then,I've kept it
+safe for you.
+Here…
+($09)Received [Key]Caller Key! 
+
+Elder:Divine Moon!
+($09)($09)($09)Answer our prayers!!
+
+Fusoya:This…this is the
+Ancient Lunar Tome! It
+harbors numerous deep
+secrets about our kind.
+Cecil,this is remarkable.
+You do our people a great
+service.
+($09)On their behalf,take this.
+($09)($09)($09)      Lunarian Staff
+    of the Enlightened
+       - [Staff]Nirvana -
+         Obtained![Song][Claw]($05)[Float]
+
+Cecil:These two?!
+($09)($09)($09)Elder:These are Palom and
+Porom.Despite their
+ages,they're quite gifted
+magicians.
+Palom:You're lucky the
+Mighty Palom will help
+you!
+Elder:Palom! Behave!
+
+Kain:Cecil,take this.
+Golbez said he once hid a
+being of fantastic power
+within the Tower of Babil.
+I never saw it,but…
+it was the last secret he
+entrusted to me.
+($09)Received [Key]Babil Key!
+
+Let your Divine Powers
+vanquish the evil!
+
+Cecil:Rosa…[Song]($13)
+
+Edward:…
+
+Cecil…
+($09)($09)($09)Cecil:Your Majesty?!
+
+King:Visit the Feymarch
+and return here…then I can
+be of aid.
+
+King:Welcome back.
+
+Cecil:Your Majesty!
+($09)($09)($09)King:Cagnazzo may have
+defeated me,but for my
+valiance I have become an
+Esper.
+I will answer as your
+caller beckons…if you can
+surmount my strength!
+
+King:You have grown…
+This world depends on
+you,and I shall fight
+by your side.
+Cecil:Thank you!
+($09)($09)($09)Rydia learned [Call]Odin![Song][Claw]($05)[Float]
+($09)($09)($09)At the start of a typical
+fight,Odin may arrive to
+quickly dispatch your
+enemies.
+
+Kain?
+
+Kain!
+
+Cecil:…That light said…
+'My son.'
+
+Tellah:Your effort shall
+not be in vain!
+
+Cecil:I'm coming for you,
+Golbez…!
+
+Cecil:I'm sorry…
+Golbez took the Crystal.
+Giott:Then we must protect
+the last.
+Rosa:Where is it?
+Giott:In the Sealed Cave,
+but worry not - none can
+enter without the key.
+Kain:Golbez's forces
+approach.What do we do?
+($09)($09)Giott:You're going
+to retrieve the other
+Crystals from the
+Tower of Babil.
+
+Cecil:No,it's nothing.
+Let's rest.
+
+Cecil:Everyone OK?
+($09)($09)($09)Cid:Yeah.
+But Enterprise ain't.
+She can't fly like this.
+Cecil:Let's disembark.
+
+Palom:I'm the Mysidian
+prodigy,Palom!
+
+Porom:Feel free to ignore
+him.I'm his twin sister,
+Porom.
+Palom:You hurt us,man!
+
+Cecil:Hand over the
+Water Crystal!
+Elder:What have we done
+to warrant this?!
+Cecil:The Crystal or your
+lives!
+($09)($09)Black Mage:Are you mad?!
+How could we possibly
+choose?!
+($09)Cecil:…I'm afraid you
+just did.
+($09)($09)Red Wings,use whatever
+means necessary to take
+the Crystal!
+
+Black Mages:AAAAGH!!
+
+White Mage:Please,I beg
+of you…!!
+
+
+Elder:Please! No more!
+Take the Crystal and
+leave! My people have done
+you no harm.
+Cecil:Very well.
+
+Elder:Before you go…tell
+me one thing! Why does
+your king so eagerly
+chase the Crystals?
+Cecil:…
+
+AAAAAHHH!!
+
+Received [Sword]Ragnarok!
+($09)($09)($09)Rydia learned [Black]Sunflare! 
+
+Received [Katana]Masamune![Song][Claw]($05)[Float]
+
+Those from the Blue Planet
+think to wield the Blade
+of Shadow?
+
+ The Nether-forged Blade
+     - [Sword]Caladbolg -
+       Unsheathed!
+($09)Wielding the [Sword]Caladbolg,
+Dark Knight Cecil will
+deal devastating damage
+with Bane.
+Be warned - using Bane
+this way consumes much
+more HP.
+
+Received [Katana]Murasame!
+($09)($09)($09)Rydia learned [Black]Aero! 
+
+King?:'Your Majesty'? Oh,
+you mean that old duffer
+who refused to surrender
+his kingdom.
+Cecil:You…!!
+($09)($09)($09)King?:You want to see him?
+Don't worry,I'll send you
+to him soon enough.
+($09)I'm not weak like Milon.
+That fool never deserved
+to be a Fiend.
+($09)($09)Cecil:Then you're…!
+
+Old Man:Dark knight,hear
+my plea.
+($09)($09)A wicked bard tricked my
+daughter into running away
+to Damcyan…and I sense
+evil in that direction!
+Cecil:You must be Sage
+Tellah.
+
+Cecil:But who are they
+fighting?
+Cid:We gotta get outta
+here! Hold on!!
+
+Woe unto him who seeks the
+Spear of Light!
+
+This Sacred Ribbon shall
+not touch your hands!
+
+This sword,reviled by Lord
+Zemus,will never have its
+power unleashed!
+
+Lugae:Hee-hee! This tower
+connects the two worlds.
+($09)($09)Rubicant already moved
+the Crystals to the
+Overworld!
+($09)All that's left is to
+annihilate the dwarves
+with our Super Cannon!
+($09)Hee-hee-hee!!
+
+Those who seek to bear
+this blade shall sooner
+visit Hell!
+
+Yang:That means they're
+after the Wind Crystal as
+well!
+($09)Edward:Assuredly so.
+Damcyan has already been
+raided.
+($09)Yang:Fabul is helpless…
+Only students remain in
+the castle.
+
+Pathetic humans.Quite bold
+of you to defy me,an
+eternal,flawless machine.
+
+Powering me down is
+futile - my code endures.
+When my system reboots,I
+shall rise once again…
+
+The Lunar Core is now
+magnetized.
+
+Cecil:Strange…
+There was no malice in
+that beast's attacks.
+Only anger.
+
+Halt.
+($09)($09)($09)Cecil:Zemus…
+($09)($09)($09)Zemus:When I lost both my
+mortal tools,I almost knew
+human rage.
+($09)I now see that your
+journey must be ended
+here.
+($09)Cecil:Think again!
+
+I am Ultima Weapon…
+($09)($09)($09)I am pure energy…
+and as ancient as the
+cosmos.
+($09)Feeble creatures…
+DIE!
+
+Ouch!
+
+I see you have obtained
+[Sword]Ultima…
+($09)($09)Perhaps you are worthy of
+my challenge after all…
+Prepare yourself!
+
+My comrades!
+A moment,please!
+
+A sudden surge of
+magnetism flows through
+the Lunar Core…
+($09)Cheating,huh?
+Well,enjoy your reward!
+
+Is that…[Sword]Ultima?!
+($09)($09)($09)I've coveted that sword…
+for so long…
+Give it to me…NOW!!
+
+    Scourge of Legend
+    - [Whip]Slaying Tail -
+        Attained!
+
+I'd like to join the fight
+against Zemus…
+($09)($09)…but the party's full.
+
+Let's destroy Zemus!
+
+    Legendary Crusher
+ - [Wrench]Flare Sledgehammer -
+        Obtained![Song][Claw]
+($09)A warmth surrounds you…
+($09)($09)($09)Received [Helm]Adamant Helm!
+
+Cecil:Your Majesty?!
+($09)($09)($09)King:Indeed,Cecil.
+My spirit has made home on
+the Moon so I may uncover
+the Lunarians' secrets.
+I am prepared to pass
+these secrets unto you -
+if your new strength
+rivals my own.
+As put forth by Esper Law,
+I challenge you to trial
+by combat.Have at you!
+
+Rosa:The Giant's
+confused!
+
+Kain:I've got a score to
+settle in the Lunar Core.
+
+Rydia:My whole life has
+been leading to this
+moment…
+I'm coming with you!
+
+Rosa:Don't worry about
+me.We can keep each other
+safe.Let's go.
+
+Edge:C'mon…you'll never
+make it without me!
+
+Yang:For the honor of
+Fabul,and the whole world.
+
+Palom:Zemus is no match
+for the Mysidian genius,
+Palom!
+
+Porom:Would you like some
+help? My magic will
+protect you from the
+gravest danger.
+
+Edward:I've learned much
+on this journey of
+hardship…and now,I can
+fight.
+
+Cid:Bah…I'm still
+pretty banged up from all
+those fancy moves in the
+Underworld.
+Don't expect me on the
+front lines…but I'll stick
+around the ship to
+maintain her 'n study up!
+
+Cid:Knock Zemus dead![Song][Pig]
+
+Cid:Fascinating flight
+technology…[Song][Pig]
+
+King:Cecil,let your light
+shine from within…!
+
+King:Darkness and evil are
+not inherently interwoven.
+Let your power of dark
+be unleashed…!
+
+All party members removed.
+
+Rydia:…?
+($09)($09)($09)…Mom…?
+($09)($09)($09)Mother:Yes,Rydia.
+My dear child…it's been
+so wonderful to see you
+thriving.
+You have grown to be both
+strong and brave,and
+you've flourished as a
+gifted caller.
+…But…sweetheart…
+I have to leave soon.
+I'm sorry…
+($09)Rydia:…Mom…
+($09)($09)($09)Mother:I can't look after
+you anymore…but I know who
+can.
+($09)With the last of my life
+force,I gift you the
+Final Esper of Mist.
+($09)May it protect you in
+your journey.
+($09)($09)…It's time.
+I have to go…
+($09)($09)Goodbye,my beloved Rydia.
+
+   The Legendary Esper
+    - [Call]Neo Bahamut -
+   Ready to be Called!
+($09)Neo Bahamut's Teraflare
+deals tremendous damage
+to all foes,inflicting
+Sap.
+Neo Bahamut:Take these as
+well.Use them as you see
+fit.
+
+Gilgamesh:A fine vessel
+this is! And to ease your
+burden of loneliness,I
+shall stick around!
+But enough expository
+banter.It's time we fight
+again!
+($09)Speak with me whenever
+you wish to spar!
+
+Gilgamesh:HA! Did you
+really think you could
+so easily defeat the
+Mighty Gilgamesh?!
+
+Gilgamesh:The greatest
+thrill lies in a true
+challenge! You have proven
+your strength and honor.
+For your valiance,I shall
+bestow you with these!
+
+King:Your light shines
+brilliantly,Cecil…
+The world depends on you.
+($09)I shall wait for you on
+the Lunar Whale.
+($09)($09)Come to me when you wish
+to learn the true nature
+of light and darkness.
+($09)Please,call me as you
+need.I shall fight by your
+side,Cecil.
+($09)Cecil:Thank you,
+Your Majesty!
+($09)($09)   The King of Knights
+       - [Call]Raiden -
+   Ready to be Called![Song][Claw]($05)[Float]
+
+Cecil:I'm glad to see
+you're OK!
+Yang:I thank you.
+($09)The best way to defend
+all our kingdoms is to
+defeat Zemus.
+May I join you?
+Cecil:Of course,friend.
+
+Cecil:Porom! Palom!
+($09)($09)($09)Porom:It's good to see
+you again,Sir Cecil.
+
+   Sword of Destruction
+     - [Sword]Apocalypse -
+        Unleashed! 
+
+  The Highwind Partisan
+    - [Spear]Dragoon Lance -
+        Obtained!
+
+How did you get here?
+How did you find this
+place?
+($09)Yer not gonna take this
+treasure from me!
+($09)($09)This SHIELD is MINE!
+Mine mine mine…
+($09)($09)($09)MINE!!
+
+Golbez:Let us destroy
+Zeromus!
+
+…Edge …
+($09)($09)($09)Edge:…?!
+($09)($09)($09)Mom?
+($09)($09)($09)…Dad?
+($09)($09)($09)Queen:Edge…this is our…
+remaining spirit.
+We'll…always be with you…
+and Eblan…
+King:…Edge…never forget…
+who you are - a ninja of
+Eblan.Always…protect your
+people…
+Edge:Dad…
+($09)($09)($09)Mom…
+($09)($09)($09)As ninja of Eblan and heir
+to the throne…
+You have my promise.
+
+Goddess:I concede defeat.
+The power you possess is
+quite profound…
+($09)I deem you worthy.
+Take the blade and battle
+the Gods of Old.
+
+    The Sword of Power
+       - [Sword]Ultima -
+    is in Your Hands!
+
+Goddess:Mortals seeking
+the Sword of Power have
+come once again…
+($09)You wish to wield its
+might? Then you must first
+face mine.
+
+Zemus:Your efforts are in
+vain.The two within will
+soon meet their end,as you
+will now meet yours.
+
+So,this is the ultimate
+battle conquered only by
+heroes of light.
+($09)HA! I,Gilgamesh,shall too
+have that honor! En garde!
+
+Neo Bahamut:I have
+witnessed in you both
+power and righteousness.
+($09)Through hardship,you've
+remained on your path of
+fate - and so,you may call
+me as you need.
+
+The party's black mages
+learned [Black]Gravity!
+($09)($09)Edge learned [Boomerang]Illusion!
+($09)           
+($09)Paladin Cecil learned
+[Crystal]Reflect!
+($09)($09)Dark Knight Cecil learned
+[Black]BlackHole!
+
+A tremendous magical power
+encircles your party…
+($09)($09)Rosa's Pray became more
+divine!
+($09)($09)Paladin Cecil learned
+[Crystal]MightyGuard!
+($09)($09)Rosa and Porom learned
+[White]Cure5!
+($09)($09)Palom learned [Black]Quasar!
+($09)($09)($09)Dark Knight Cecil and
+Rydia learned [Black]Supernova!
+
+($09)     Congratulations!
+($09)($09)You have outlasted the
+Eternal Flame and overcome
+the darkness.
+($09)May your light shine forth
+throughout eternity!
+($09)($09)Received…
+[Sword]Ultima II!
+[Shield]Celestial Shield!
+[Sword]Apocalypse!
+[Stone]Dark Matter!
+[Black]Void Stone x2!
+[Black]Globe 199 x3!
+
+($09)     - Wave Six End -
+($09)($09)Received…
+[Sword]Ultima!
+[Sword]Illumina!
+[Spear]Dragoon Lance!
+[Sword]Valhalla!
+[Bow]Perseus Bow!
+[Black]Void Stone x3!
+[Black]Globe 199 x2!
+
+($09)    - Wave Five End -
+($09)($09)Received…
+[Whip]Slaying Tail!
+[Wrench]Flare Sledgehammer!
+[Staff]Nirvana!
+[Black]Globe 199!
+[Black]Void Stone!
+
+($09)    - Wave Four End -
+($09)($09)Received…
+[Claw]Dragon Claw!
+[Katana]Eclipse!
+[Sword]Caladbolg!
+[Black]Void Stone!
+[Black]Globe 199!
+
+($09)    - Wave Three End -
+($09)($09)Received…
+[Harp]Loki Lute!
+[Knife]Gladius!
+[Black]Void Stone!
+
+($09)     - Wave Two End -
+($09)($09)Received…
+[Black]Anti-Matter x3!
+Gold Apple x3!
+
+($09)     - Wave One End -
+($09)($09)Received…
+[Black]Anti-Matter x2!
+Silver Apple x4!
+
+You…have no idea…
+what you're getting
+yourself…into.
+($09)You shall NOT win.
+
+Speak to a character to
+add them to the party.
+($09)($09)Speak to the Hummingway in
+the engine room to remove
+all party members.
+
+Rydia:…
+-sob,sob-
+($09)($09)…
+($09)($09)($09)Goodbye,Mom…
+($09)($09)($09)Rydia learned [Call]Phnix!
+($09)($09)($09)Phoenix's Rebirth Flame
+scorches your foes in its
+immense heat,and revives
+all Wounded allies.
+
+Fusoya:We need to get into
+the Giant and destroy its
+heart,the CPU.
+
+Cecil:…It was just an
+illusion.
+
+Worthless wretch…
+Your filthy hand is not
+fit to touch this blade!
+Begone!
+
+Palom:Hey,dude!
+Long time no see!
+You forget about me?
+($09)You can't go after the
+big bad without me!
+I'm the Mysidian prodigy!
+($09)Porom:Feel free to ignore
+him…as usual.
+
+Cid:Hey,wise-guy!
+You're blockin' the hatch!
+
+This is the Sword of Void…
+unseen and untouchable.
+Those who seek it shall
+be devoured!
+
+Winners don't use GG
+codes…
+($09)($09)…or drugs.
