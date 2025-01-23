@@ -43,4 +43,4 @@ Rydia (PR, DS colors, by xJ4cks).ips
 sp-Ceres.ips
 SquishBGone's Font Pack Clean Font.ips
 Tellah (PR, by xJ4cks).ips
-Yang (PR, DS colors, by xJ4cks).ips
+Yang (PR, DS colors, by xJ4cks, Nicoc1991, red man).ips
