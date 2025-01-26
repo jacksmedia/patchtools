@@ -1,4 +1,3 @@
-_SquishBGone_v107.ips
 Cid (PR, DS Colors, by xJ4cks).ips
 Decil (PR, alt blue, by Nicoc1991).ips
 Edge (PR, DS colors by xJ4cks).ips
@@ -41,6 +40,5 @@ portrait Yang (DS colors, by xJ4cks).ips
 Rosa (PR, by MObreck).ips
 Rydia (PR, DS colors, by xJ4cks).ips
 sp-Ceres.ips
-SquishBGone's Font Pack Clean Font.ips
 Tellah (PR, by xJ4cks).ips
 Yang (PR, DS colors, by xJ4cks, Nicoc1991, red man).ips

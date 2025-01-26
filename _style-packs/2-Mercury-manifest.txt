@@ -1,5 +1,4 @@
 _map sprites FF4-T style (by tsushiy).ips
-_SquishBGone_v107.ips
 classic map pal03 restore.ips
 Decil (classic, portrait colors, by xJ4cks).ips
 Edge (classic, portrait colors, by xJ4cks).ips
@@ -28,5 +27,4 @@ portrait Yang (better, by xJ4cks).ips
 Rosa (classic, pink armor, by tsushiy).ips
 Rydia (classic, portrait colors, pink magic, by xJ4cks).ips
 sp-Mercury.ips
-SquishBGone's Font Pack I-NES.ips
 Yang (classic, portrait colors, by xJ4cks).ips

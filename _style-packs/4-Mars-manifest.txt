@@ -1,4 +1,3 @@
-_SquishBGone_v107.ips
 Cid (PR, by xJ4cks).ips
 Decil (PR, storm armor, by Nicoc1991).ips
 Edge (PR, classic colors, by Nicoc1991).ips
@@ -35,6 +34,5 @@ portrait Yang (battle color, by xJ4cks).ips
 Rosa (PR, by xJ4cks).ips
 Rydia (PR, by MObreck).ips
 sp-Mars.ips
-SquishBGone's Font Pack ULTIMA IV by mrBrawndo.ips
 Tellah (PR, by xJ4cks).ips
 Yang (PR, by Nicoc1991).ips

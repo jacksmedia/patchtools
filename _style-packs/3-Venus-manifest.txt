@@ -1,4 +1,3 @@
-_SquishBGone_v107.ips
 Decil (classic, portrait colors, by xJ4cks).ips
 Edge (classic, map colors, by xJ4cks).ips
 Edward (classic, portrait colors, by xJ4cks).ips
@@ -31,5 +30,4 @@ portrait Rydia (better, by xJ4cks).ips
 portrait Tellah (better, by xJ4cks).ips
 Rydia (classic, portrait colors, pink magic, by xJ4cks).ips
 sp-Venus.ips
-SquishBGone's Font Pack Wide Advance.ips
 Yang (classic, portrait colors, by xJ4cks).ips

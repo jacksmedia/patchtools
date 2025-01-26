@@ -1,4 +1,3 @@
-_SquishBGone_v107.ips
 Final Fantasy IV Ultima - Sylph-Bloodfeast Fix.ips
 map Edward (better, by xJ4cks).ips
 map Yang (red pants, moustache, by xJ4cks).ips
