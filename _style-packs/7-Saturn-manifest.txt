@@ -1,6 +1,5 @@
 _All Characters RK Battle Sprites v1.3, from T92.ips
 _map sprites FF4-T style (by tsushiy).ips
-Chicago6 Font.ips
 Decil (RK, darkest, by tsushiy).ips
 Edge (RK, better, by xJ4cks).ips
 Edward (RK, portrait colors, by xJ4cks).ips

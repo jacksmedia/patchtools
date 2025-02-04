@@ -10,7 +10,7 @@ tools_dir = style_packs_dir.parent  # One directory up
 patchwork_dir = tools_dir.parent  # Two directories up
 
 # Locate original ROM
-rom_to_patch = patchwork_dir / '_RC-rom.sfc'
+rom_to_patch = patchwork_dir / '_UP-rom.sfc'
 
 # Function to apply a single IPS patch to working ROM copy
 def apply_patch(rom_path, patch_path):
