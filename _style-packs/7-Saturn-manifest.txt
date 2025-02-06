@@ -8,6 +8,7 @@ Final Fantasy IV Ultima - Sylph-Bloodfeast Fix.ips
 FuSoYa (RK, lunar magic, by xJ4cks).ips
 Kain (RK, dark teal, by Nicoc1991).ips
 Kydia (RK, pink magic, by xJ4cks).ips
+map Edge (T style, purple, by tsushiy & xJ4cks).ips
 Palom (RK, Messy Hair, by red man & Nicoc1991).ips
 Pecil (RK, Cosmic w Cape Cheer, by T92).ips
 Porom (RK, Messy Hair, by red man).ips

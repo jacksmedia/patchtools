@@ -7,8 +7,8 @@ from pathlib import Path
 # Define directories
 style_packs_dir = Path(__file__).parent # bc current wd is /style-packs
 patchwork_dir = style_packs_dir.parent # one dir up from this one
-# Locate RC rom
-rom_to_patch = patchwork_dir / '_RC-rom.sfc'
+# Locate Ultima Plus rom
+rom_to_patch = patchwork_dir / '_UP-rom.sfc'
 
 # Function to apply a single IPS patch to the working ROM copy
 def apply_patch(rom_path, patch_path):

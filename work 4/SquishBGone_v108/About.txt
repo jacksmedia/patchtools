@@ -1,0 +1,3 @@
+CHANGES: Menu text related to items and spells, as well as pieces of dialogue that reference those items and spells.
+
+EFFECT: Uses various means to remove the usage of most squish tiles (2 or more letters shrunk together into 1-2 letter's width, to circumvent letter limitations). This allows for a clean, appealing aesthetic. This sometimes involved renaming items and spells; please see the "Changelog" for information.
