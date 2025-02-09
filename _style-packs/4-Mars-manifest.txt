@@ -21,7 +21,7 @@ map Rydia (PR, by MObreck).ips
 map Tellah (PR, by xJ4cks).ips
 map Yang (PR, by xJ4cks).ips
 Palom (PR, by MObreck).ips
-Pecil (PR, by xJ4cks).ips
+Pecil (PR, by xJ4cks and redman).ips
 Porom (PR, by MObreck).ips
 portrait Cid (better, by xJ4cks).ips
 portrait Kydia (battle color, by xJ4cks).ips
