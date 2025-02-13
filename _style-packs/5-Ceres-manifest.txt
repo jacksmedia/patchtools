@@ -1,7 +1,7 @@
 Cid (PR, DS Colors, by xJ4cks).ips
 Decil (PR, alt blue, by Nicoc1991).ips
 Edge (PR, by xJ4cks and red man).ips
-Edward (PR, by xJ4cks).ips
+Edward (PR, Blue Scarf, by redman & xJ4cks).ips
 FF4 Ultima Enemy Graphics 4bpp upgrade v2 (SNES-size enemies), by Gedankenschild.ips
 Final Fantasy IV Ultima - Sylph-Bloodfeast Fix.ips
 FuSoYa (PR, by xJ4cks).ips
@@ -10,8 +10,8 @@ Kain (PR, DS colors, by xJ4cks).ips
 Kydia (PR, DS colors, by xJ4cks).ips
 map Cid (PR, by xJ4cks).ips
 map Decil (horns, by xJ4cks).ips
-map Edge (better, by xJ4cks).ips
-map Edward (PR, green scarf, by xJ4cks).ips
+map Edge (PR, by xJ4cks and red man).ips
+map Edward (PR, Blue Scarf by xJ4cks & red man).ips
 map Kain (PR, by xJ4cks).ips
 map Kydia (PR, by MObreck).ips
 map Palom (PR, better, by xJ4cks).ips

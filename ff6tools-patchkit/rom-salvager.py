@@ -74,7 +74,7 @@ def process_all_roms(corrupt_roms_dir, original_rom, offsets):
         output_rom = corrupt_roms_dir.parent / corrupt_rom.name
         print(f"Processing '{corrupt_rom}' into '{output_rom}'")
         salvage_rom(original_rom, corrupt_rom, output_rom, offsets)
-    print("Batch process completed! Now make some fresh patches!")
+    print("Batch process completed! Your sprite data was salvaged to a clean rom!")
 
 
 # Import offsets from JSON
@@ -87,7 +87,7 @@ script_dir = Path(__file__).parent # this dir
 corrupt_roms_dir = script_dir / 'corrupted'
 
 # Set original rom path
-original_rom = script_dir.parent / 'ff2 v1.1.sfc'
+original_rom = script_dir / 'ff2 v1.1.smc'
 
 # Batch process invocation
 process_all_roms(corrupt_roms_dir, original_rom, offsets)

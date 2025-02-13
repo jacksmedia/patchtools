@@ -1,0 +1,14 @@
+The offsets data included are for Final Fantasy IV.
+With additional offset data, these tools can work for other roms.
+
+1.)
+Upload a FF4 rom, and use https://everything8215.github.io/ff6tools/ff6tools.html to add new PNG images. Map Sprites, Character Graphics, and Character Portraits are all supported for characters 0 thru 13. No Golbez, sorry.
+
+2.)
+Download the modified rom, and name it what you want your sprite mod patch to be named.
+
+3.)
+Put that ZIP into this folder.
+
+4.)
+Double click on the "_1-click-patchmaker.bat" icon, and that's it!
