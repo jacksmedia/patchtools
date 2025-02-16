@@ -1,3 +1,4 @@
+_Golbez (PR battle + map sprites, by MObreck).ips
 Cid (PR, by xJ4cks).ips
 Decil (PR, storm armor, by Nicoc1991).ips
 Edge (PR, classic colors, by Nicoc1991).ips
@@ -5,7 +6,7 @@ Edward (PR, by xJ4cks).ips
 FF4 Ultima Enemy Graphics 4bpp upgrade v2 (SNES-size enemies), by Gedankenschild.ips
 Final Fantasy IV Ultima - Sylph-Bloodfeast Fix.ips
 FuSoYa (PR, by xJ4cks).ips
-Golbez (PR battle + map sprites, by MObreck).ips
+Golbez (PR+, by Nicoc1991).ips
 Kain (PR, twilight armor, by Nicoc1991).ips
 Kydia (PR, by MObreck).ips
 map Cid (PR, by xJ4cks).ips

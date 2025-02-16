@@ -1,4 +1,4 @@
-Cid (PR, DS Colors, by xJ4cks).ips
+Cid (PR, DS Colors, by xJ4cks and red man).ips
 Decil (PR, alt blue, by Nicoc1991).ips
 Edge (PR, by xJ4cks and red man).ips
 Edward (PR, Blue Scarf, by redman & xJ4cks).ips
@@ -20,7 +20,7 @@ map Porom (PR, better, by xJ4cks).ips
 map Rosa (PR, by MObreck).ips
 map Rydia (PR, by MObreck).ips
 map Tellah (PR, by xJ4cks).ips
-map Yang (PR, High Monk, by xJ4cks).ips
+map Yang (Red Pants, by xJ4cks and red man).ips
 Palom (PR, better, by xJ4cks).ips
 Pecil (PR, DS colors by xJ4cks).ips
 Porom (PR, better, by xJ4cks).ips
