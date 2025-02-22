@@ -8,7 +8,7 @@ Final Fantasy IV Ultima - Sylph-Bloodfeast Fix.ips
 FuSoYa (PR, by xJ4cks).ips
 Golbez (PR+, by Nicoc1991).ips
 Kain (PR, twilight armor, by Nicoc1991).ips
-Kydia (PR, by MObreck).ips
+Kydia (PR, by MObreck and red man).ips
 map Cid (PR, by xJ4cks).ips
 map Decil (closed helmet, by Nicoc1991).ips
 map Edge (better, by xJ4cks).ips
@@ -32,7 +32,7 @@ portrait Porom (RK, battle color, by xJ4cks).ips
 portrait Rosa (PR ponytail, by FlamePurge).ips
 portrait Tellah (battle color, by xJ4cks).ips
 portrait Yang (battle color, by xJ4cks).ips
-Rosa (PR, by xJ4cks).ips
+Rosa (PR, by MObreck and red man).ips
 Rydia (PR, by MObreck).ips
 sp-Mars.ips
 Tellah (PR, by xJ4cks).ips
