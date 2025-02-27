@@ -12,7 +12,7 @@ map Pecil (PR, by xJ4cks).ips
 map Yang (PR, by xJ4cks).ips
 Palom & Porom original map colors fix.ips
 Pecil (classic, portrait colors, by xJ4cks).ips
-Porom (classic, better, by xJ4cks).ips
+Porom (classic, brighter, by xJ4cks).ips
 portrait Cid (better, by xJ4cks).ips
 portrait Edge (better, by xJ4cks).ips
 portrait FuSoYa (battle color, by xJ4cks).ips
