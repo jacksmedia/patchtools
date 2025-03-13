@@ -1,3 +1,4 @@
+import os
 from PIL import Image
 
 ## This takes a PNG file of exactly 112 x 48 pixels
@@ -54,7 +55,19 @@ def rearrange_tiles(input_path, output_path):
     output_img.save(output_path)
     print(f"Rearranged image saved as {output_path}")
 
-# Example filenames
-rearrange_tiles("input.png", "output.png")
+# Iterates over all the PNG files in a given directory
+def process_directory(input_dir, output_dir):
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    
+    for filename in os.listdir(input_dir):
+        if filename.lower().endswith(".png"):
+            input_path = os.path.join(input_dir, filename)
+            output_filename = f"{os.path.splitext(filename)[0]}-arranged.png"
+            output_path = os.path.join(output_dir, output_filename)
+            rearrange_tiles(input_path, output_path)
+
+# Example usage
+process_directory("input_folder", "output_folder")
 
 # Run with `python FFIV-sprite-sheet-shuffler.py`
