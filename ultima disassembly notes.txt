@@ -1,0 +1,48 @@
+Re: the Spell Menu icon colors, this controls which palettes are used
+
+
+$10/C6A4 C9 EA       CMP #$EA       Compare the value currently in A (which is the tile ID) with #$EA (Wind icon, wants palette #$08)
+$10/C6A6 D0 04       BNE $04        If it is not #$EA, then skip the next four bytes of code (i.e. the next two ops, go to $10/C6AC)
+$10/C6A8 A9 08       LDA #$08       load #$08 into A (green/yellow palette)
+$10/C6AA 80 12       BRA $1A    *   Skip the next $1A (decimal 26) bytes, go to $10/C6C6
+// added 8 bytes so increasing to 26 (#$1A) from 18
+// originally, Skip the next $12 (decimal 18) bytes (i.e. the next NINE ops, go to $10/C6C6)
+                               
+$10/C6AC C9 A8       CMP #$A8   *   Compare the value currently in A (the tile ID) with #$A8 (Dark icon, wants palette #$00)
+$10/C6AE D0 0x       BNE $04    *   If it is not #$A8, then skip the next four bytes
+$10/C6B0 A9 00       LDA #$00   *  load #$08 into A (dark grey/grey palette)
+$10/C6B2 80 12       BRA $12    *   If it is not #$A8, then skip the next $12 (18) bytes
+
+$10/C6B4 C9 24       CMP #$24       Compare the Tile ID with #$24 (Pig icon, wants palette #$0C)
+$10/C6B6 F0 0C       BEQ $0C        If it is #$24, then skip the next $0c (decimal 12) bytes (to $10/C6C6)
+$10/C6B8 C9 25       CMP #$25       Compare the Tile ID with #$25 (Mute icon, wants palette #$0C)
+$10/C6BA F0 08       BEQ $08        If it is #$25, then skip the next 8 bytes (go to $10/C6C6)
+$10/C6BC C9 90       CMP #$90       Compare the Tile ID with #$90 (Lightning icon, wants palette #$0C)
+$10/C6BE F0 04       BEQ $04        If it is #$90 then skip the next 4 bytes (to $10/C6C6)
+$10/C6C0 C9 91       CMP #$91       Compate the Tile ID with #$91 (Fire icon, wants palette #$0C)
+$10/C6C2 D0 05       BNE $05        If it is NOT #$91 then skip the rest of this (IOW we are not loading any special palette)
+$10/C6C4 A9 0C       LDA #$0C       Load #$0C into A (pink/orange palette for Pig, Fire icons)
+$10/C6C6 99 CC B9    STA $B9CC,y    Store the value in A in the value where this tile's palette assignment goes
+
+
+C9 EA D0 04 A9 08 80 12 
+C9 24 F0 0C C9 25 F0 08 C9 90 F0 04 C9 91 D0 05 
+A9 0C 99 CC B9 C8 C6 80 C6 80 D0 0F C2 20 98 18 
+69 18 00 A8 A9 28 00 85 80 E2 20 C0 A8 02 B0 09 
+E8 E6 82 A5 82 C9 40 90 91 FA 86 80 86 82 86 84 
+60
+
+
+$10/C6A4: 22 XX XX XX - JMP into subroutine (3-byte address)
+$10/C6A8: 90 02 - if the carry flag is clear, branch over the next two bytes
+
+(subroutine.... wherever)
+C9 22   CMP #$22
+F0 04   BEQ $04
+C9 A8   CMP [Dark icon ID]
+D0 05   BNE $05
+A9 00   LDA #$00 [Dark icon palette]
+38      SEC
+80 01   BRA $01
+18      CLC
+6B      RTL

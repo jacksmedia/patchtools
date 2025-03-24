@@ -3,7 +3,7 @@
     {
         "battle_sprites1_start": "$0D7600",
         "battle_sprites2_start": "$1D0000",
-        "bat_palette1":  "80 01 00 00 FF 7F 60 03 3F 2A F9 01 1B 00 15 00 7F 03 BC 02 B5 01 40 7F 40 7E 80 6D 00 5D 00 38",
+        "bat_palette":  "80 01 00 00 FF 7F 60 03 3F 2A F9 01 1B 00 15 00 7F 03 BC 02 B5 01 40 7F 40 7E 80 6D 00 5D 00 38",
         "pal_start": "$0E7EC0",
         "map_sprites1_start": "$0D0900",
         "map_sprites2_start": "$1D0900",
