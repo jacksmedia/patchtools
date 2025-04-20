@@ -4,6 +4,7 @@ Clean Font FF4Ultima Plus, by xJ4cks.ips
 Decil (classic, portrait colors, by xJ4cks).ips
 Edge (classic, portrait colors, by xJ4cks).ips
 Edward (classic, portrait colors, by xJ4cks).ips
+FF4 Ultima Enemy Graphics 4bpp upgrade v2 (SNES-size enemies), by Gedankenschild.ips
 FF4UP PSP portraits (from tsushiy & Gens).ips
 Final Fantasy IV Ultima - Sylph-Bloodfeast Fix.ips
 FuSoYa (classic, lunar magic, by xJ4cks).ips

@@ -1,0 +1,19 @@
+_map sprites FF4-WS (by tsushiy, gvdn).ips
+Decil (classic, portrait colors, by xJ4cks).ips
+Edge (Classic, Blue & Orange, by xJ4cks).ips
+Kydia (Classic, portrait colors, pink magic, by xJ4cks).ips
+map Golbez (WS, Black, by AerospaceCoot35).ips
+map Palom (WS, Blue, by red man).ips
+Palom (Classic, Blue & Bronze, by xJ4cks).ips
+Pecil (Classic, Cosmic, by Nicoc1991).ips
+Porom (Classic Cosmic, by xJ4cks).ips
+portrait Cid (battle color, by xJ4cks).ips
+portrait Edward (battle color, by xJ4cks).ips
+portrait FuSoYa (battle color, by xJ4cks).ips
+portrait Porom (RK, battle color, by xJ4cks).ips
+portrait Rosa (PR ponytail, by FlamePurge).ips
+portrait Rydia (battle color, by xJ4cks).ips
+portrait Tellah (battle color, by xJ4cks).ips
+portrait Yang (battle color, by xJ4cks).ips
+Rosa (Classic, Green Armor, by El Forko & xJ4cks), map (WS Green, by tsushiy & xJ4cks).ips
+Rydia (Classic, portrait colors, pink magic, by xJ4cks).ips

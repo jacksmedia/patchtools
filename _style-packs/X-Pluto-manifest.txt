@@ -1,10 +1,11 @@
+_map Cecil n Rosa Cosmic Colors.ips
 Cid (RK, gold + PURPLE, by xJ4cks).ips
 Decil (RK, darkest, by Nicoc1991).ips
 Edge (RK, better, by xJ4cks).ips
 Edward (RK, portrait colors, by xJ4cks).ips
+FF4 Ultima deep purple pal0.ips
 FF4 Ultima Enemy Graphics 4bpp upgrade v2 (SNES-size enemies), by Gedankenschild.ips
 FF4SR Portraits EX 1.2 Cecil-P Alt A.ips
-FF4Ultima v2024 Plus RC05 - deep purple pal0.ips
 FuSoYa (RK, lunar magic, by xJ4cks).ips
 Golbez + Anna (RK, by T92).ips
 Kain (RK, green, by xJ4cks).ips
@@ -15,7 +16,7 @@ map Edge (PURPLE, by xJ4cks).ips
 map Edward (better, by xJ4cks).ips
 map Kain (PR, green, by xJ4cks).ips
 map Palom (PR, better, by xJ4cks).ips
-map Pecil (T style Cosmic, by tsushiy).ips
+map Pecil (WS, Cosmic, by gvdn).ips
 map Porom (PR, by MObreck).ips
 map Rosa (PR, by MObreck).ips
 map Yang (PURPLE, by xJ4cks).ips

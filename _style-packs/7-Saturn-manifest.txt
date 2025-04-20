@@ -1,4 +1,5 @@
-_map sprites FF4-T style (by tsushiy).ips
+_map Cecil n Rosa Cosmic Colors.ips
+_map sprites FF4-WS (by tsushiy, gvdn).ips
 Cid (RK, from T92).ips
 Decil (RK, darkest, by tsushiy).ips
 Edge (RK, better, by xJ4cks).ips
@@ -10,9 +11,9 @@ Golbez + Anna (RK, by T92).ips
 Kain (RK, dark teal, by Nicoc1991).ips
 Kydia (RK, pink magic, by xJ4cks).ips
 map Edge (T style, purple, by tsushiy & xJ4cks).ips
-Palom (RK, Messy Hair, by red man & Nicoc1991).ips
+Palom (URK, Messy, by red man and Nicoc1991).ips
 Pecil (RK, Cosmic w Cape Cheer, by T92).ips
-Porom (RK, Messy Hair, by red man).ips
+Porom (URK, Messy, by red man and Nicoc1991).ips
 portrait Cid (battle color, by xJ4cks).ips
 portrait Decil (battle color, evil eyes, by xJ4cks).ips
 portrait Edge (better, by xJ4cks).ips
